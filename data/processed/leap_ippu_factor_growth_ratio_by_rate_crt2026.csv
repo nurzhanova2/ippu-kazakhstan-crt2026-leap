@@ -1,0 +1,8 @@
+uniform_rate_pct_2025_2050,label,growth_min_2050,growth_max_2050,growth_range_2050,factor_range_2050,factor_to_growth_ratio
+1.0,uniform rate,14009.1,19440.2,5431.0,14719.8,2.71
+1.5,uniform rate,14009.1,20631.4,6622.3,14719.8,2.22
+2.0,uniform rate,14009.1,23443.1,9434.0,14719.8,1.56
+2.2,historical rate of the physical-output index,14009.1,24668.0,10658.9,14719.8,1.38
+2.5,uniform rate,14009.1,26621.5,12612.3,14719.8,1.17
+2.7,previous historical index (superseded),14009.1,28005.5,13996.3,14719.8,1.05
+2.8,break-even (factors = growth),14009.1,28723.2,14714.0,14719.8,1.0

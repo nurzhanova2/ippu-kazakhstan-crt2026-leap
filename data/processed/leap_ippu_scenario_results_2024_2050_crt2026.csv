@@ -1,0 +1,1216 @@
+scenario,year,process,group,gas,emissions_kt_co2eq_ar5
+Baseline,2024,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2024,Lime,Mineral industry,CO2,744.159
+Baseline,2024,Glass,Mineral industry,CO2,103.517
+Baseline,2024,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2024,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2024,Steel,Metal industry,CO2,531.409735
+Baseline,2024,Sinter,Metal industry,CO2,1223.677811
+Baseline,2024,Pellets,Metal industry,CO2,363.770554
+Baseline,2024,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2024,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2024,Aluminium,Metal industry,CO2,426.48302
+Baseline,2024,Zinc,Metal industry,CO2,275.911461
+Baseline,2024,Ammonia,Chemical industry,CO2,485.518
+Baseline,2024,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2024,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2025,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2025,Lime,Mineral industry,CO2,744.159
+Baseline,2025,Glass,Mineral industry,CO2,103.517
+Baseline,2025,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2025,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2025,Steel,Metal industry,CO2,531.409735
+Baseline,2025,Sinter,Metal industry,CO2,1223.677811
+Baseline,2025,Pellets,Metal industry,CO2,363.770554
+Baseline,2025,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2025,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2025,Aluminium,Metal industry,CO2,426.48302
+Baseline,2025,Zinc,Metal industry,CO2,275.911461
+Baseline,2025,Ammonia,Chemical industry,CO2,485.518
+Baseline,2025,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2025,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2026,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2026,Lime,Mineral industry,CO2,744.159
+Baseline,2026,Glass,Mineral industry,CO2,103.517
+Baseline,2026,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2026,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2026,Steel,Metal industry,CO2,531.409735
+Baseline,2026,Sinter,Metal industry,CO2,1223.677811
+Baseline,2026,Pellets,Metal industry,CO2,363.770554
+Baseline,2026,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2026,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2026,Aluminium,Metal industry,CO2,426.48302
+Baseline,2026,Zinc,Metal industry,CO2,275.911461
+Baseline,2026,Ammonia,Chemical industry,CO2,485.518
+Baseline,2026,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2026,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2027,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2027,Lime,Mineral industry,CO2,744.159
+Baseline,2027,Glass,Mineral industry,CO2,103.517
+Baseline,2027,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2027,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2027,Steel,Metal industry,CO2,531.409735
+Baseline,2027,Sinter,Metal industry,CO2,1223.677811
+Baseline,2027,Pellets,Metal industry,CO2,363.770554
+Baseline,2027,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2027,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2027,Aluminium,Metal industry,CO2,426.48302
+Baseline,2027,Zinc,Metal industry,CO2,275.911461
+Baseline,2027,Ammonia,Chemical industry,CO2,485.518
+Baseline,2027,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2027,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2028,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2028,Lime,Mineral industry,CO2,744.159
+Baseline,2028,Glass,Mineral industry,CO2,103.517
+Baseline,2028,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2028,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2028,Steel,Metal industry,CO2,531.409735
+Baseline,2028,Sinter,Metal industry,CO2,1223.677811
+Baseline,2028,Pellets,Metal industry,CO2,363.770554
+Baseline,2028,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2028,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2028,Aluminium,Metal industry,CO2,426.48302
+Baseline,2028,Zinc,Metal industry,CO2,275.911461
+Baseline,2028,Ammonia,Chemical industry,CO2,485.518
+Baseline,2028,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2028,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2029,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2029,Lime,Mineral industry,CO2,744.159
+Baseline,2029,Glass,Mineral industry,CO2,103.517
+Baseline,2029,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2029,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2029,Steel,Metal industry,CO2,531.409735
+Baseline,2029,Sinter,Metal industry,CO2,1223.677811
+Baseline,2029,Pellets,Metal industry,CO2,363.770554
+Baseline,2029,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2029,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2029,Aluminium,Metal industry,CO2,426.48302
+Baseline,2029,Zinc,Metal industry,CO2,275.911461
+Baseline,2029,Ammonia,Chemical industry,CO2,485.518
+Baseline,2029,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2029,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2030,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2030,Lime,Mineral industry,CO2,744.159
+Baseline,2030,Glass,Mineral industry,CO2,103.517
+Baseline,2030,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2030,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2030,Steel,Metal industry,CO2,531.409735
+Baseline,2030,Sinter,Metal industry,CO2,1223.677811
+Baseline,2030,Pellets,Metal industry,CO2,363.770554
+Baseline,2030,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2030,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2030,Aluminium,Metal industry,CO2,426.48302
+Baseline,2030,Zinc,Metal industry,CO2,275.911461
+Baseline,2030,Ammonia,Chemical industry,CO2,485.518
+Baseline,2030,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2030,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2031,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2031,Lime,Mineral industry,CO2,744.159
+Baseline,2031,Glass,Mineral industry,CO2,103.517
+Baseline,2031,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2031,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2031,Steel,Metal industry,CO2,531.409735
+Baseline,2031,Sinter,Metal industry,CO2,1223.677811
+Baseline,2031,Pellets,Metal industry,CO2,363.770554
+Baseline,2031,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2031,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2031,Aluminium,Metal industry,CO2,426.48302
+Baseline,2031,Zinc,Metal industry,CO2,275.911461
+Baseline,2031,Ammonia,Chemical industry,CO2,485.518
+Baseline,2031,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2031,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2032,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2032,Lime,Mineral industry,CO2,744.159
+Baseline,2032,Glass,Mineral industry,CO2,103.517
+Baseline,2032,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2032,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2032,Steel,Metal industry,CO2,531.409735
+Baseline,2032,Sinter,Metal industry,CO2,1223.677811
+Baseline,2032,Pellets,Metal industry,CO2,363.770554
+Baseline,2032,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2032,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2032,Aluminium,Metal industry,CO2,426.48302
+Baseline,2032,Zinc,Metal industry,CO2,275.911461
+Baseline,2032,Ammonia,Chemical industry,CO2,485.518
+Baseline,2032,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2032,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2033,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2033,Lime,Mineral industry,CO2,744.159
+Baseline,2033,Glass,Mineral industry,CO2,103.517
+Baseline,2033,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2033,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2033,Steel,Metal industry,CO2,531.409735
+Baseline,2033,Sinter,Metal industry,CO2,1223.677811
+Baseline,2033,Pellets,Metal industry,CO2,363.770554
+Baseline,2033,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2033,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2033,Aluminium,Metal industry,CO2,426.48302
+Baseline,2033,Zinc,Metal industry,CO2,275.911461
+Baseline,2033,Ammonia,Chemical industry,CO2,485.518
+Baseline,2033,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2033,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2034,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2034,Lime,Mineral industry,CO2,744.159
+Baseline,2034,Glass,Mineral industry,CO2,103.517
+Baseline,2034,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2034,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2034,Steel,Metal industry,CO2,531.409735
+Baseline,2034,Sinter,Metal industry,CO2,1223.677811
+Baseline,2034,Pellets,Metal industry,CO2,363.770554
+Baseline,2034,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2034,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2034,Aluminium,Metal industry,CO2,426.48302
+Baseline,2034,Zinc,Metal industry,CO2,275.911461
+Baseline,2034,Ammonia,Chemical industry,CO2,485.518
+Baseline,2034,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2034,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2035,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2035,Lime,Mineral industry,CO2,744.159
+Baseline,2035,Glass,Mineral industry,CO2,103.517
+Baseline,2035,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2035,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2035,Steel,Metal industry,CO2,531.409735
+Baseline,2035,Sinter,Metal industry,CO2,1223.677811
+Baseline,2035,Pellets,Metal industry,CO2,363.770554
+Baseline,2035,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2035,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2035,Aluminium,Metal industry,CO2,426.48302
+Baseline,2035,Zinc,Metal industry,CO2,275.911461
+Baseline,2035,Ammonia,Chemical industry,CO2,485.518
+Baseline,2035,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2035,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2036,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2036,Lime,Mineral industry,CO2,744.159
+Baseline,2036,Glass,Mineral industry,CO2,103.517
+Baseline,2036,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2036,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2036,Steel,Metal industry,CO2,531.409735
+Baseline,2036,Sinter,Metal industry,CO2,1223.677811
+Baseline,2036,Pellets,Metal industry,CO2,363.770554
+Baseline,2036,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2036,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2036,Aluminium,Metal industry,CO2,426.48302
+Baseline,2036,Zinc,Metal industry,CO2,275.911461
+Baseline,2036,Ammonia,Chemical industry,CO2,485.518
+Baseline,2036,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2036,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2037,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2037,Lime,Mineral industry,CO2,744.159
+Baseline,2037,Glass,Mineral industry,CO2,103.517
+Baseline,2037,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2037,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2037,Steel,Metal industry,CO2,531.409735
+Baseline,2037,Sinter,Metal industry,CO2,1223.677811
+Baseline,2037,Pellets,Metal industry,CO2,363.770554
+Baseline,2037,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2037,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2037,Aluminium,Metal industry,CO2,426.48302
+Baseline,2037,Zinc,Metal industry,CO2,275.911461
+Baseline,2037,Ammonia,Chemical industry,CO2,485.518
+Baseline,2037,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2037,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2038,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2038,Lime,Mineral industry,CO2,744.159
+Baseline,2038,Glass,Mineral industry,CO2,103.517
+Baseline,2038,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2038,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2038,Steel,Metal industry,CO2,531.409735
+Baseline,2038,Sinter,Metal industry,CO2,1223.677811
+Baseline,2038,Pellets,Metal industry,CO2,363.770554
+Baseline,2038,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2038,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2038,Aluminium,Metal industry,CO2,426.48302
+Baseline,2038,Zinc,Metal industry,CO2,275.911461
+Baseline,2038,Ammonia,Chemical industry,CO2,485.518
+Baseline,2038,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2038,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2039,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2039,Lime,Mineral industry,CO2,744.159
+Baseline,2039,Glass,Mineral industry,CO2,103.517
+Baseline,2039,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2039,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2039,Steel,Metal industry,CO2,531.409735
+Baseline,2039,Sinter,Metal industry,CO2,1223.677811
+Baseline,2039,Pellets,Metal industry,CO2,363.770554
+Baseline,2039,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2039,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2039,Aluminium,Metal industry,CO2,426.48302
+Baseline,2039,Zinc,Metal industry,CO2,275.911461
+Baseline,2039,Ammonia,Chemical industry,CO2,485.518
+Baseline,2039,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2039,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2040,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2040,Lime,Mineral industry,CO2,744.159
+Baseline,2040,Glass,Mineral industry,CO2,103.517
+Baseline,2040,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2040,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2040,Steel,Metal industry,CO2,531.409735
+Baseline,2040,Sinter,Metal industry,CO2,1223.677811
+Baseline,2040,Pellets,Metal industry,CO2,363.770554
+Baseline,2040,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2040,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2040,Aluminium,Metal industry,CO2,426.48302
+Baseline,2040,Zinc,Metal industry,CO2,275.911461
+Baseline,2040,Ammonia,Chemical industry,CO2,485.518
+Baseline,2040,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2040,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2041,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2041,Lime,Mineral industry,CO2,744.159
+Baseline,2041,Glass,Mineral industry,CO2,103.517
+Baseline,2041,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2041,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2041,Steel,Metal industry,CO2,531.409735
+Baseline,2041,Sinter,Metal industry,CO2,1223.677811
+Baseline,2041,Pellets,Metal industry,CO2,363.770554
+Baseline,2041,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2041,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2041,Aluminium,Metal industry,CO2,426.48302
+Baseline,2041,Zinc,Metal industry,CO2,275.911461
+Baseline,2041,Ammonia,Chemical industry,CO2,485.518
+Baseline,2041,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2041,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2042,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2042,Lime,Mineral industry,CO2,744.159
+Baseline,2042,Glass,Mineral industry,CO2,103.517
+Baseline,2042,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2042,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2042,Steel,Metal industry,CO2,531.409735
+Baseline,2042,Sinter,Metal industry,CO2,1223.677811
+Baseline,2042,Pellets,Metal industry,CO2,363.770554
+Baseline,2042,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2042,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2042,Aluminium,Metal industry,CO2,426.48302
+Baseline,2042,Zinc,Metal industry,CO2,275.911461
+Baseline,2042,Ammonia,Chemical industry,CO2,485.518
+Baseline,2042,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2042,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2043,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2043,Lime,Mineral industry,CO2,744.159
+Baseline,2043,Glass,Mineral industry,CO2,103.517
+Baseline,2043,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2043,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2043,Steel,Metal industry,CO2,531.409735
+Baseline,2043,Sinter,Metal industry,CO2,1223.677811
+Baseline,2043,Pellets,Metal industry,CO2,363.770554
+Baseline,2043,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2043,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2043,Aluminium,Metal industry,CO2,426.48302
+Baseline,2043,Zinc,Metal industry,CO2,275.911461
+Baseline,2043,Ammonia,Chemical industry,CO2,485.518
+Baseline,2043,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2043,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2044,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2044,Lime,Mineral industry,CO2,744.159
+Baseline,2044,Glass,Mineral industry,CO2,103.517
+Baseline,2044,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2044,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2044,Steel,Metal industry,CO2,531.409735
+Baseline,2044,Sinter,Metal industry,CO2,1223.677811
+Baseline,2044,Pellets,Metal industry,CO2,363.770554
+Baseline,2044,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2044,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2044,Aluminium,Metal industry,CO2,426.48302
+Baseline,2044,Zinc,Metal industry,CO2,275.911461
+Baseline,2044,Ammonia,Chemical industry,CO2,485.518
+Baseline,2044,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2044,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2045,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2045,Lime,Mineral industry,CO2,744.159
+Baseline,2045,Glass,Mineral industry,CO2,103.517
+Baseline,2045,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2045,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2045,Steel,Metal industry,CO2,531.409735
+Baseline,2045,Sinter,Metal industry,CO2,1223.677811
+Baseline,2045,Pellets,Metal industry,CO2,363.770554
+Baseline,2045,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2045,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2045,Aluminium,Metal industry,CO2,426.48302
+Baseline,2045,Zinc,Metal industry,CO2,275.911461
+Baseline,2045,Ammonia,Chemical industry,CO2,485.518
+Baseline,2045,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2045,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2046,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2046,Lime,Mineral industry,CO2,744.159
+Baseline,2046,Glass,Mineral industry,CO2,103.517
+Baseline,2046,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2046,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2046,Steel,Metal industry,CO2,531.409735
+Baseline,2046,Sinter,Metal industry,CO2,1223.677811
+Baseline,2046,Pellets,Metal industry,CO2,363.770554
+Baseline,2046,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2046,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2046,Aluminium,Metal industry,CO2,426.48302
+Baseline,2046,Zinc,Metal industry,CO2,275.911461
+Baseline,2046,Ammonia,Chemical industry,CO2,485.518
+Baseline,2046,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2046,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2047,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2047,Lime,Mineral industry,CO2,744.159
+Baseline,2047,Glass,Mineral industry,CO2,103.517
+Baseline,2047,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2047,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2047,Steel,Metal industry,CO2,531.409735
+Baseline,2047,Sinter,Metal industry,CO2,1223.677811
+Baseline,2047,Pellets,Metal industry,CO2,363.770554
+Baseline,2047,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2047,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2047,Aluminium,Metal industry,CO2,426.48302
+Baseline,2047,Zinc,Metal industry,CO2,275.911461
+Baseline,2047,Ammonia,Chemical industry,CO2,485.518
+Baseline,2047,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2047,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2048,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2048,Lime,Mineral industry,CO2,744.159
+Baseline,2048,Glass,Mineral industry,CO2,103.517
+Baseline,2048,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2048,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2048,Steel,Metal industry,CO2,531.409735
+Baseline,2048,Sinter,Metal industry,CO2,1223.677811
+Baseline,2048,Pellets,Metal industry,CO2,363.770554
+Baseline,2048,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2048,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2048,Aluminium,Metal industry,CO2,426.48302
+Baseline,2048,Zinc,Metal industry,CO2,275.911461
+Baseline,2048,Ammonia,Chemical industry,CO2,485.518
+Baseline,2048,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2048,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2049,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2049,Lime,Mineral industry,CO2,744.159
+Baseline,2049,Glass,Mineral industry,CO2,103.517
+Baseline,2049,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2049,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2049,Steel,Metal industry,CO2,531.409735
+Baseline,2049,Sinter,Metal industry,CO2,1223.677811
+Baseline,2049,Pellets,Metal industry,CO2,363.770554
+Baseline,2049,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2049,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2049,Aluminium,Metal industry,CO2,426.48302
+Baseline,2049,Zinc,Metal industry,CO2,275.911461
+Baseline,2049,Ammonia,Chemical industry,CO2,485.518
+Baseline,2049,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2049,Calcium carbide,Chemical industry,CO2,19.866
+Baseline,2050,Cement clinker,Mineral industry,CO2,4459.855
+Baseline,2050,Lime,Mineral industry,CO2,744.159
+Baseline,2050,Glass,Mineral industry,CO2,103.517
+Baseline,2050,Other carbonate uses,Mineral industry,CO2,3917.509
+Baseline,2050,Pig iron,Metal industry,CO2,5614.555233
+Baseline,2050,Steel,Metal industry,CO2,531.409735
+Baseline,2050,Sinter,Metal industry,CO2,1223.677811
+Baseline,2050,Pellets,Metal industry,CO2,363.770554
+Baseline,2050,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Baseline,2050,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Baseline,2050,Aluminium,Metal industry,CO2,426.48302
+Baseline,2050,Zinc,Metal industry,CO2,275.911461
+Baseline,2050,Ammonia,Chemical industry,CO2,485.518
+Baseline,2050,Nitric acid,Chemical industry,N2O,160.272
+Baseline,2050,Calcium carbide,Chemical industry,CO2,19.866
+Moderate mitigation,2024,Cement clinker,Mineral industry,CO2,4459.855
+Moderate mitigation,2024,Lime,Mineral industry,CO2,744.159
+Moderate mitigation,2024,Glass,Mineral industry,CO2,103.517
+Moderate mitigation,2024,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2024,Pig iron,Metal industry,CO2,5614.555233
+Moderate mitigation,2024,Steel,Metal industry,CO2,531.409735
+Moderate mitigation,2024,Sinter,Metal industry,CO2,1223.677811
+Moderate mitigation,2024,Pellets,Metal industry,CO2,363.770554
+Moderate mitigation,2024,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Moderate mitigation,2024,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Moderate mitigation,2024,Aluminium,Metal industry,CO2,426.48302
+Moderate mitigation,2024,Zinc,Metal industry,CO2,275.911461
+Moderate mitigation,2024,Ammonia,Chemical industry,CO2,485.518
+Moderate mitigation,2024,Nitric acid,Chemical industry,N2O,160.272
+Moderate mitigation,2024,Calcium carbide,Chemical industry,CO2,19.866
+Moderate mitigation,2025,Cement clinker,Mineral industry,CO2,4348.358625
+Moderate mitigation,2025,Lime,Mineral industry,CO2,725.555025
+Moderate mitigation,2025,Glass,Mineral industry,CO2,100.929075
+Moderate mitigation,2025,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2025,Pig iron,Metal industry,CO2,5520.979312
+Moderate mitigation,2025,Steel,Metal industry,CO2,522.552906
+Moderate mitigation,2025,Sinter,Metal industry,CO2,1203.283181
+Moderate mitigation,2025,Pellets,Metal industry,CO2,357.707711
+Moderate mitigation,2025,Ferroalloys (CO2),Metal industry,CO2,3698.17605
+Moderate mitigation,2025,Ferroalloys (CH4),Metal industry,CH4,0.958353
+Moderate mitigation,2025,Aluminium,Metal industry,CO2,419.37497
+Moderate mitigation,2025,Zinc,Metal industry,CO2,271.312937
+Moderate mitigation,2025,Ammonia,Chemical industry,CO2,477.426033
+Moderate mitigation,2025,Nitric acid,Chemical industry,N2O,157.6008
+Moderate mitigation,2025,Calcium carbide,Chemical industry,CO2,19.5349
+Moderate mitigation,2026,Cement clinker,Mineral industry,CO2,4236.86225
+Moderate mitigation,2026,Lime,Mineral industry,CO2,706.95105
+Moderate mitigation,2026,Glass,Mineral industry,CO2,98.34115
+Moderate mitigation,2026,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2026,Pig iron,Metal industry,CO2,5427.403392
+Moderate mitigation,2026,Steel,Metal industry,CO2,513.696077
+Moderate mitigation,2026,Sinter,Metal industry,CO2,1182.888551
+Moderate mitigation,2026,Pellets,Metal industry,CO2,351.644869
+Moderate mitigation,2026,Ferroalloys (CO2),Metal industry,CO2,3635.4951
+Moderate mitigation,2026,Ferroalloys (CH4),Metal industry,CH4,0.942109
+Moderate mitigation,2026,Aluminium,Metal industry,CO2,412.266919
+Moderate mitigation,2026,Zinc,Metal industry,CO2,266.714412
+Moderate mitigation,2026,Ammonia,Chemical industry,CO2,469.334067
+Moderate mitigation,2026,Nitric acid,Chemical industry,N2O,154.9296
+Moderate mitigation,2026,Calcium carbide,Chemical industry,CO2,19.2038
+Moderate mitigation,2027,Cement clinker,Mineral industry,CO2,4125.365875
+Moderate mitigation,2027,Lime,Mineral industry,CO2,688.347075
+Moderate mitigation,2027,Glass,Mineral industry,CO2,95.753225
+Moderate mitigation,2027,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2027,Pig iron,Metal industry,CO2,5333.827471
+Moderate mitigation,2027,Steel,Metal industry,CO2,504.839248
+Moderate mitigation,2027,Sinter,Metal industry,CO2,1162.49392
+Moderate mitigation,2027,Pellets,Metal industry,CO2,345.582026
+Moderate mitigation,2027,Ferroalloys (CO2),Metal industry,CO2,3572.81415
+Moderate mitigation,2027,Ferroalloys (CH4),Metal industry,CH4,0.925866
+Moderate mitigation,2027,Aluminium,Metal industry,CO2,405.158869
+Moderate mitigation,2027,Zinc,Metal industry,CO2,262.115888
+Moderate mitigation,2027,Ammonia,Chemical industry,CO2,461.2421
+Moderate mitigation,2027,Nitric acid,Chemical industry,N2O,152.2584
+Moderate mitigation,2027,Calcium carbide,Chemical industry,CO2,18.8727
+Moderate mitigation,2028,Cement clinker,Mineral industry,CO2,4013.8695
+Moderate mitigation,2028,Lime,Mineral industry,CO2,669.7431
+Moderate mitigation,2028,Glass,Mineral industry,CO2,93.1653
+Moderate mitigation,2028,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2028,Pig iron,Metal industry,CO2,5240.251551
+Moderate mitigation,2028,Steel,Metal industry,CO2,495.982419
+Moderate mitigation,2028,Sinter,Metal industry,CO2,1142.09929
+Moderate mitigation,2028,Pellets,Metal industry,CO2,339.519184
+Moderate mitigation,2028,Ferroalloys (CO2),Metal industry,CO2,3510.1332
+Moderate mitigation,2028,Ferroalloys (CH4),Metal industry,CH4,0.909623
+Moderate mitigation,2028,Aluminium,Metal industry,CO2,398.050819
+Moderate mitigation,2028,Zinc,Metal industry,CO2,257.517364
+Moderate mitigation,2028,Ammonia,Chemical industry,CO2,453.150133
+Moderate mitigation,2028,Nitric acid,Chemical industry,N2O,149.5872
+Moderate mitigation,2028,Calcium carbide,Chemical industry,CO2,18.5416
+Moderate mitigation,2029,Cement clinker,Mineral industry,CO2,3902.373125
+Moderate mitigation,2029,Lime,Mineral industry,CO2,651.139125
+Moderate mitigation,2029,Glass,Mineral industry,CO2,90.577375
+Moderate mitigation,2029,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2029,Pig iron,Metal industry,CO2,5146.67563
+Moderate mitigation,2029,Steel,Metal industry,CO2,487.12559
+Moderate mitigation,2029,Sinter,Metal industry,CO2,1121.70466
+Moderate mitigation,2029,Pellets,Metal industry,CO2,333.456341
+Moderate mitigation,2029,Ferroalloys (CO2),Metal industry,CO2,3447.45225
+Moderate mitigation,2029,Ferroalloys (CH4),Metal industry,CH4,0.89338
+Moderate mitigation,2029,Aluminium,Metal industry,CO2,390.942768
+Moderate mitigation,2029,Zinc,Metal industry,CO2,252.918839
+Moderate mitigation,2029,Ammonia,Chemical industry,CO2,445.058167
+Moderate mitigation,2029,Nitric acid,Chemical industry,N2O,146.916
+Moderate mitigation,2029,Calcium carbide,Chemical industry,CO2,18.2105
+Moderate mitigation,2030,Cement clinker,Mineral industry,CO2,3790.87675
+Moderate mitigation,2030,Lime,Mineral industry,CO2,632.53515
+Moderate mitigation,2030,Glass,Mineral industry,CO2,87.98945
+Moderate mitigation,2030,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2030,Pig iron,Metal industry,CO2,5053.09971
+Moderate mitigation,2030,Steel,Metal industry,CO2,478.268761
+Moderate mitigation,2030,Sinter,Metal industry,CO2,1101.31003
+Moderate mitigation,2030,Pellets,Metal industry,CO2,327.393499
+Moderate mitigation,2030,Ferroalloys (CO2),Metal industry,CO2,3384.7713
+Moderate mitigation,2030,Ferroalloys (CH4),Metal industry,CH4,0.877136
+Moderate mitigation,2030,Aluminium,Metal industry,CO2,383.834718
+Moderate mitigation,2030,Zinc,Metal industry,CO2,248.320315
+Moderate mitigation,2030,Ammonia,Chemical industry,CO2,436.9662
+Moderate mitigation,2030,Nitric acid,Chemical industry,N2O,144.2448
+Moderate mitigation,2030,Calcium carbide,Chemical industry,CO2,17.8794
+Moderate mitigation,2031,Cement clinker,Mineral industry,CO2,3735.128562
+Moderate mitigation,2031,Lime,Mineral industry,CO2,623.233163
+Moderate mitigation,2031,Glass,Mineral industry,CO2,86.695487
+Moderate mitigation,2031,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2031,Pig iron,Metal industry,CO2,4982.917769
+Moderate mitigation,2031,Steel,Metal industry,CO2,471.62614
+Moderate mitigation,2031,Sinter,Metal industry,CO2,1086.014057
+Moderate mitigation,2031,Pellets,Metal industry,CO2,322.846367
+Moderate mitigation,2031,Ferroalloys (CO2),Metal industry,CO2,3337.760588
+Moderate mitigation,2031,Ferroalloys (CH4),Metal industry,CH4,0.864954
+Moderate mitigation,2031,Aluminium,Metal industry,CO2,378.50368
+Moderate mitigation,2031,Zinc,Metal industry,CO2,244.871422
+Moderate mitigation,2031,Ammonia,Chemical industry,CO2,430.897225
+Moderate mitigation,2031,Nitric acid,Chemical industry,N2O,142.2414
+Moderate mitigation,2031,Calcium carbide,Chemical industry,CO2,17.631075
+Moderate mitigation,2032,Cement clinker,Mineral industry,CO2,3679.380375
+Moderate mitigation,2032,Lime,Mineral industry,CO2,613.931175
+Moderate mitigation,2032,Glass,Mineral industry,CO2,85.401525
+Moderate mitigation,2032,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2032,Pig iron,Metal industry,CO2,4912.735829
+Moderate mitigation,2032,Steel,Metal industry,CO2,464.983518
+Moderate mitigation,2032,Sinter,Metal industry,CO2,1070.718085
+Moderate mitigation,2032,Pellets,Metal industry,CO2,318.299235
+Moderate mitigation,2032,Ferroalloys (CO2),Metal industry,CO2,3290.749875
+Moderate mitigation,2032,Ferroalloys (CH4),Metal industry,CH4,0.852772
+Moderate mitigation,2032,Aluminium,Metal industry,CO2,373.172642
+Moderate mitigation,2032,Zinc,Metal industry,CO2,241.422528
+Moderate mitigation,2032,Ammonia,Chemical industry,CO2,424.82825
+Moderate mitigation,2032,Nitric acid,Chemical industry,N2O,140.238
+Moderate mitigation,2032,Calcium carbide,Chemical industry,CO2,17.38275
+Moderate mitigation,2033,Cement clinker,Mineral industry,CO2,3623.632187
+Moderate mitigation,2033,Lime,Mineral industry,CO2,604.629187
+Moderate mitigation,2033,Glass,Mineral industry,CO2,84.107563
+Moderate mitigation,2033,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2033,Pig iron,Metal industry,CO2,4842.553888
+Moderate mitigation,2033,Steel,Metal industry,CO2,458.340896
+Moderate mitigation,2033,Sinter,Metal industry,CO2,1055.422112
+Moderate mitigation,2033,Pellets,Metal industry,CO2,313.752103
+Moderate mitigation,2033,Ferroalloys (CO2),Metal industry,CO2,3243.739163
+Moderate mitigation,2033,Ferroalloys (CH4),Metal industry,CH4,0.840589
+Moderate mitigation,2033,Aluminium,Metal industry,CO2,367.841605
+Moderate mitigation,2033,Zinc,Metal industry,CO2,237.973635
+Moderate mitigation,2033,Ammonia,Chemical industry,CO2,418.759275
+Moderate mitigation,2033,Nitric acid,Chemical industry,N2O,138.2346
+Moderate mitigation,2033,Calcium carbide,Chemical industry,CO2,17.134425
+Moderate mitigation,2034,Cement clinker,Mineral industry,CO2,3567.884
+Moderate mitigation,2034,Lime,Mineral industry,CO2,595.3272
+Moderate mitigation,2034,Glass,Mineral industry,CO2,82.8136
+Moderate mitigation,2034,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2034,Pig iron,Metal industry,CO2,4772.371948
+Moderate mitigation,2034,Steel,Metal industry,CO2,451.698275
+Moderate mitigation,2034,Sinter,Metal industry,CO2,1040.126139
+Moderate mitigation,2034,Pellets,Metal industry,CO2,309.204971
+Moderate mitigation,2034,Ferroalloys (CO2),Metal industry,CO2,3196.72845
+Moderate mitigation,2034,Ferroalloys (CH4),Metal industry,CH4,0.828407
+Moderate mitigation,2034,Aluminium,Metal industry,CO2,362.510567
+Moderate mitigation,2034,Zinc,Metal industry,CO2,234.524742
+Moderate mitigation,2034,Ammonia,Chemical industry,CO2,412.6903
+Moderate mitigation,2034,Nitric acid,Chemical industry,N2O,136.2312
+Moderate mitigation,2034,Calcium carbide,Chemical industry,CO2,16.8861
+Moderate mitigation,2035,Cement clinker,Mineral industry,CO2,3512.135812
+Moderate mitigation,2035,Lime,Mineral industry,CO2,586.025212
+Moderate mitigation,2035,Glass,Mineral industry,CO2,81.519637
+Moderate mitigation,2035,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2035,Pig iron,Metal industry,CO2,4702.190008
+Moderate mitigation,2035,Steel,Metal industry,CO2,445.055653
+Moderate mitigation,2035,Sinter,Metal industry,CO2,1024.830167
+Moderate mitigation,2035,Pellets,Metal industry,CO2,304.657839
+Moderate mitigation,2035,Ferroalloys (CO2),Metal industry,CO2,3149.717738
+Moderate mitigation,2035,Ferroalloys (CH4),Metal industry,CH4,0.816224
+Moderate mitigation,2035,Aluminium,Metal industry,CO2,357.179529
+Moderate mitigation,2035,Zinc,Metal industry,CO2,231.075849
+Moderate mitigation,2035,Ammonia,Chemical industry,CO2,406.621325
+Moderate mitigation,2035,Nitric acid,Chemical industry,N2O,134.2278
+Moderate mitigation,2035,Calcium carbide,Chemical industry,CO2,16.637775
+Moderate mitigation,2036,Cement clinker,Mineral industry,CO2,3456.387625
+Moderate mitigation,2036,Lime,Mineral industry,CO2,576.723225
+Moderate mitigation,2036,Glass,Mineral industry,CO2,80.225675
+Moderate mitigation,2036,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2036,Pig iron,Metal industry,CO2,4632.008067
+Moderate mitigation,2036,Steel,Metal industry,CO2,438.413031
+Moderate mitigation,2036,Sinter,Metal industry,CO2,1009.534194
+Moderate mitigation,2036,Pellets,Metal industry,CO2,300.110707
+Moderate mitigation,2036,Ferroalloys (CO2),Metal industry,CO2,3102.707025
+Moderate mitigation,2036,Ferroalloys (CH4),Metal industry,CH4,0.804042
+Moderate mitigation,2036,Aluminium,Metal industry,CO2,351.848492
+Moderate mitigation,2036,Zinc,Metal industry,CO2,227.626955
+Moderate mitigation,2036,Ammonia,Chemical industry,CO2,400.55235
+Moderate mitigation,2036,Nitric acid,Chemical industry,N2O,132.2244
+Moderate mitigation,2036,Calcium carbide,Chemical industry,CO2,16.38945
+Moderate mitigation,2037,Cement clinker,Mineral industry,CO2,3400.639437
+Moderate mitigation,2037,Lime,Mineral industry,CO2,567.421237
+Moderate mitigation,2037,Glass,Mineral industry,CO2,78.931712
+Moderate mitigation,2037,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2037,Pig iron,Metal industry,CO2,4561.826127
+Moderate mitigation,2037,Steel,Metal industry,CO2,431.77041
+Moderate mitigation,2037,Sinter,Metal industry,CO2,994.238221
+Moderate mitigation,2037,Pellets,Metal industry,CO2,295.563575
+Moderate mitigation,2037,Ferroalloys (CO2),Metal industry,CO2,3055.696313
+Moderate mitigation,2037,Ferroalloys (CH4),Metal industry,CH4,0.791859
+Moderate mitigation,2037,Aluminium,Metal industry,CO2,346.517454
+Moderate mitigation,2037,Zinc,Metal industry,CO2,224.178062
+Moderate mitigation,2037,Ammonia,Chemical industry,CO2,394.483375
+Moderate mitigation,2037,Nitric acid,Chemical industry,N2O,130.221
+Moderate mitigation,2037,Calcium carbide,Chemical industry,CO2,16.141125
+Moderate mitigation,2038,Cement clinker,Mineral industry,CO2,3344.89125
+Moderate mitigation,2038,Lime,Mineral industry,CO2,558.11925
+Moderate mitigation,2038,Glass,Mineral industry,CO2,77.63775
+Moderate mitigation,2038,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2038,Pig iron,Metal industry,CO2,4491.644186
+Moderate mitigation,2038,Steel,Metal industry,CO2,425.127788
+Moderate mitigation,2038,Sinter,Metal industry,CO2,978.942249
+Moderate mitigation,2038,Pellets,Metal industry,CO2,291.016443
+Moderate mitigation,2038,Ferroalloys (CO2),Metal industry,CO2,3008.6856
+Moderate mitigation,2038,Ferroalloys (CH4),Metal industry,CH4,0.779677
+Moderate mitigation,2038,Aluminium,Metal industry,CO2,341.186416
+Moderate mitigation,2038,Zinc,Metal industry,CO2,220.729169
+Moderate mitigation,2038,Ammonia,Chemical industry,CO2,388.4144
+Moderate mitigation,2038,Nitric acid,Chemical industry,N2O,128.2176
+Moderate mitigation,2038,Calcium carbide,Chemical industry,CO2,15.8928
+Moderate mitigation,2039,Cement clinker,Mineral industry,CO2,3289.143062
+Moderate mitigation,2039,Lime,Mineral industry,CO2,548.817262
+Moderate mitigation,2039,Glass,Mineral industry,CO2,76.343787
+Moderate mitigation,2039,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2039,Pig iron,Metal industry,CO2,4421.462246
+Moderate mitigation,2039,Steel,Metal industry,CO2,418.485166
+Moderate mitigation,2039,Sinter,Metal industry,CO2,963.646276
+Moderate mitigation,2039,Pellets,Metal industry,CO2,286.469311
+Moderate mitigation,2039,Ferroalloys (CO2),Metal industry,CO2,2961.674887
+Moderate mitigation,2039,Ferroalloys (CH4),Metal industry,CH4,0.767494
+Moderate mitigation,2039,Aluminium,Metal industry,CO2,335.855378
+Moderate mitigation,2039,Zinc,Metal industry,CO2,217.280276
+Moderate mitigation,2039,Ammonia,Chemical industry,CO2,382.345425
+Moderate mitigation,2039,Nitric acid,Chemical industry,N2O,126.2142
+Moderate mitigation,2039,Calcium carbide,Chemical industry,CO2,15.644475
+Moderate mitigation,2040,Cement clinker,Mineral industry,CO2,3233.394875
+Moderate mitigation,2040,Lime,Mineral industry,CO2,539.515275
+Moderate mitigation,2040,Glass,Mineral industry,CO2,75.049825
+Moderate mitigation,2040,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2040,Pig iron,Metal industry,CO2,4351.280306
+Moderate mitigation,2040,Steel,Metal industry,CO2,411.842545
+Moderate mitigation,2040,Sinter,Metal industry,CO2,948.350304
+Moderate mitigation,2040,Pellets,Metal industry,CO2,281.922179
+Moderate mitigation,2040,Ferroalloys (CO2),Metal industry,CO2,2914.664175
+Moderate mitigation,2040,Ferroalloys (CH4),Metal industry,CH4,0.755312
+Moderate mitigation,2040,Aluminium,Metal industry,CO2,330.52434
+Moderate mitigation,2040,Zinc,Metal industry,CO2,213.831382
+Moderate mitigation,2040,Ammonia,Chemical industry,CO2,376.27645
+Moderate mitigation,2040,Nitric acid,Chemical industry,N2O,124.2108
+Moderate mitigation,2040,Calcium carbide,Chemical industry,CO2,15.39615
+Moderate mitigation,2041,Cement clinker,Mineral industry,CO2,3177.646687
+Moderate mitigation,2041,Lime,Mineral industry,CO2,530.213287
+Moderate mitigation,2041,Glass,Mineral industry,CO2,73.755862
+Moderate mitigation,2041,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2041,Pig iron,Metal industry,CO2,4281.098365
+Moderate mitigation,2041,Steel,Metal industry,CO2,405.199923
+Moderate mitigation,2041,Sinter,Metal industry,CO2,933.054331
+Moderate mitigation,2041,Pellets,Metal industry,CO2,277.375047
+Moderate mitigation,2041,Ferroalloys (CO2),Metal industry,CO2,2867.653462
+Moderate mitigation,2041,Ferroalloys (CH4),Metal industry,CH4,0.743129
+Moderate mitigation,2041,Aluminium,Metal industry,CO2,325.193303
+Moderate mitigation,2041,Zinc,Metal industry,CO2,210.382489
+Moderate mitigation,2041,Ammonia,Chemical industry,CO2,370.207475
+Moderate mitigation,2041,Nitric acid,Chemical industry,N2O,122.2074
+Moderate mitigation,2041,Calcium carbide,Chemical industry,CO2,15.147825
+Moderate mitigation,2042,Cement clinker,Mineral industry,CO2,3121.8985
+Moderate mitigation,2042,Lime,Mineral industry,CO2,520.9113
+Moderate mitigation,2042,Glass,Mineral industry,CO2,72.4619
+Moderate mitigation,2042,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2042,Pig iron,Metal industry,CO2,4210.916425
+Moderate mitigation,2042,Steel,Metal industry,CO2,398.557301
+Moderate mitigation,2042,Sinter,Metal industry,CO2,917.758358
+Moderate mitigation,2042,Pellets,Metal industry,CO2,272.827916
+Moderate mitigation,2042,Ferroalloys (CO2),Metal industry,CO2,2820.64275
+Moderate mitigation,2042,Ferroalloys (CH4),Metal industry,CH4,0.730947
+Moderate mitigation,2042,Aluminium,Metal industry,CO2,319.862265
+Moderate mitigation,2042,Zinc,Metal industry,CO2,206.933596
+Moderate mitigation,2042,Ammonia,Chemical industry,CO2,364.1385
+Moderate mitigation,2042,Nitric acid,Chemical industry,N2O,120.204
+Moderate mitigation,2042,Calcium carbide,Chemical industry,CO2,14.8995
+Moderate mitigation,2043,Cement clinker,Mineral industry,CO2,3066.150312
+Moderate mitigation,2043,Lime,Mineral industry,CO2,511.609312
+Moderate mitigation,2043,Glass,Mineral industry,CO2,71.167937
+Moderate mitigation,2043,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2043,Pig iron,Metal industry,CO2,4140.734484
+Moderate mitigation,2043,Steel,Metal industry,CO2,391.91468
+Moderate mitigation,2043,Sinter,Metal industry,CO2,902.462386
+Moderate mitigation,2043,Pellets,Metal industry,CO2,268.280784
+Moderate mitigation,2043,Ferroalloys (CO2),Metal industry,CO2,2773.632038
+Moderate mitigation,2043,Ferroalloys (CH4),Metal industry,CH4,0.718765
+Moderate mitigation,2043,Aluminium,Metal industry,CO2,314.531227
+Moderate mitigation,2043,Zinc,Metal industry,CO2,203.484702
+Moderate mitigation,2043,Ammonia,Chemical industry,CO2,358.069525
+Moderate mitigation,2043,Nitric acid,Chemical industry,N2O,118.2006
+Moderate mitigation,2043,Calcium carbide,Chemical industry,CO2,14.651175
+Moderate mitigation,2044,Cement clinker,Mineral industry,CO2,3010.402125
+Moderate mitigation,2044,Lime,Mineral industry,CO2,502.307325
+Moderate mitigation,2044,Glass,Mineral industry,CO2,69.873975
+Moderate mitigation,2044,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2044,Pig iron,Metal industry,CO2,4070.552544
+Moderate mitigation,2044,Steel,Metal industry,CO2,385.272058
+Moderate mitigation,2044,Sinter,Metal industry,CO2,887.166413
+Moderate mitigation,2044,Pellets,Metal industry,CO2,263.733652
+Moderate mitigation,2044,Ferroalloys (CO2),Metal industry,CO2,2726.621325
+Moderate mitigation,2044,Ferroalloys (CH4),Metal industry,CH4,0.706582
+Moderate mitigation,2044,Aluminium,Metal industry,CO2,309.20019
+Moderate mitigation,2044,Zinc,Metal industry,CO2,200.035809
+Moderate mitigation,2044,Ammonia,Chemical industry,CO2,352.00055
+Moderate mitigation,2044,Nitric acid,Chemical industry,N2O,116.1972
+Moderate mitigation,2044,Calcium carbide,Chemical industry,CO2,14.40285
+Moderate mitigation,2045,Cement clinker,Mineral industry,CO2,2954.653937
+Moderate mitigation,2045,Lime,Mineral industry,CO2,493.005337
+Moderate mitigation,2045,Glass,Mineral industry,CO2,68.580012
+Moderate mitigation,2045,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2045,Pig iron,Metal industry,CO2,4000.370604
+Moderate mitigation,2045,Steel,Metal industry,CO2,378.629436
+Moderate mitigation,2045,Sinter,Metal industry,CO2,871.87044
+Moderate mitigation,2045,Pellets,Metal industry,CO2,259.18652
+Moderate mitigation,2045,Ferroalloys (CO2),Metal industry,CO2,2679.610613
+Moderate mitigation,2045,Ferroalloys (CH4),Metal industry,CH4,0.6944
+Moderate mitigation,2045,Aluminium,Metal industry,CO2,303.869152
+Moderate mitigation,2045,Zinc,Metal industry,CO2,196.586916
+Moderate mitigation,2045,Ammonia,Chemical industry,CO2,345.931575
+Moderate mitigation,2045,Nitric acid,Chemical industry,N2O,114.1938
+Moderate mitigation,2045,Calcium carbide,Chemical industry,CO2,14.154525
+Moderate mitigation,2046,Cement clinker,Mineral industry,CO2,2898.90575
+Moderate mitigation,2046,Lime,Mineral industry,CO2,483.70335
+Moderate mitigation,2046,Glass,Mineral industry,CO2,67.28605
+Moderate mitigation,2046,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2046,Pig iron,Metal industry,CO2,3930.188663
+Moderate mitigation,2046,Steel,Metal industry,CO2,371.986814
+Moderate mitigation,2046,Sinter,Metal industry,CO2,856.574468
+Moderate mitigation,2046,Pellets,Metal industry,CO2,254.639388
+Moderate mitigation,2046,Ferroalloys (CO2),Metal industry,CO2,2632.5999
+Moderate mitigation,2046,Ferroalloys (CH4),Metal industry,CH4,0.682217
+Moderate mitigation,2046,Aluminium,Metal industry,CO2,298.538114
+Moderate mitigation,2046,Zinc,Metal industry,CO2,193.138023
+Moderate mitigation,2046,Ammonia,Chemical industry,CO2,339.8626
+Moderate mitigation,2046,Nitric acid,Chemical industry,N2O,112.1904
+Moderate mitigation,2046,Calcium carbide,Chemical industry,CO2,13.9062
+Moderate mitigation,2047,Cement clinker,Mineral industry,CO2,2843.157562
+Moderate mitigation,2047,Lime,Mineral industry,CO2,474.401362
+Moderate mitigation,2047,Glass,Mineral industry,CO2,65.992087
+Moderate mitigation,2047,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2047,Pig iron,Metal industry,CO2,3860.006723
+Moderate mitigation,2047,Steel,Metal industry,CO2,365.344193
+Moderate mitigation,2047,Sinter,Metal industry,CO2,841.278495
+Moderate mitigation,2047,Pellets,Metal industry,CO2,250.092256
+Moderate mitigation,2047,Ferroalloys (CO2),Metal industry,CO2,2585.589187
+Moderate mitigation,2047,Ferroalloys (CH4),Metal industry,CH4,0.670035
+Moderate mitigation,2047,Aluminium,Metal industry,CO2,293.207076
+Moderate mitigation,2047,Zinc,Metal industry,CO2,189.689129
+Moderate mitigation,2047,Ammonia,Chemical industry,CO2,333.793625
+Moderate mitigation,2047,Nitric acid,Chemical industry,N2O,110.187
+Moderate mitigation,2047,Calcium carbide,Chemical industry,CO2,13.657875
+Moderate mitigation,2048,Cement clinker,Mineral industry,CO2,2787.409375
+Moderate mitigation,2048,Lime,Mineral industry,CO2,465.099375
+Moderate mitigation,2048,Glass,Mineral industry,CO2,64.698125
+Moderate mitigation,2048,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2048,Pig iron,Metal industry,CO2,3789.824782
+Moderate mitigation,2048,Steel,Metal industry,CO2,358.701571
+Moderate mitigation,2048,Sinter,Metal industry,CO2,825.982522
+Moderate mitigation,2048,Pellets,Metal industry,CO2,245.545124
+Moderate mitigation,2048,Ferroalloys (CO2),Metal industry,CO2,2538.578475
+Moderate mitigation,2048,Ferroalloys (CH4),Metal industry,CH4,0.657852
+Moderate mitigation,2048,Aluminium,Metal industry,CO2,287.876039
+Moderate mitigation,2048,Zinc,Metal industry,CO2,186.240236
+Moderate mitigation,2048,Ammonia,Chemical industry,CO2,327.72465
+Moderate mitigation,2048,Nitric acid,Chemical industry,N2O,108.1836
+Moderate mitigation,2048,Calcium carbide,Chemical industry,CO2,13.40955
+Moderate mitigation,2049,Cement clinker,Mineral industry,CO2,2731.661187
+Moderate mitigation,2049,Lime,Mineral industry,CO2,455.797388
+Moderate mitigation,2049,Glass,Mineral industry,CO2,63.404163
+Moderate mitigation,2049,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2049,Pig iron,Metal industry,CO2,3719.642842
+Moderate mitigation,2049,Steel,Metal industry,CO2,352.058949
+Moderate mitigation,2049,Sinter,Metal industry,CO2,810.68655
+Moderate mitigation,2049,Pellets,Metal industry,CO2,240.997992
+Moderate mitigation,2049,Ferroalloys (CO2),Metal industry,CO2,2491.567763
+Moderate mitigation,2049,Ferroalloys (CH4),Metal industry,CH4,0.64567
+Moderate mitigation,2049,Aluminium,Metal industry,CO2,282.545001
+Moderate mitigation,2049,Zinc,Metal industry,CO2,182.791343
+Moderate mitigation,2049,Ammonia,Chemical industry,CO2,321.655675
+Moderate mitigation,2049,Nitric acid,Chemical industry,N2O,106.1802
+Moderate mitigation,2049,Calcium carbide,Chemical industry,CO2,13.161225
+Moderate mitigation,2050,Cement clinker,Mineral industry,CO2,2675.913
+Moderate mitigation,2050,Lime,Mineral industry,CO2,446.4954
+Moderate mitigation,2050,Glass,Mineral industry,CO2,62.1102
+Moderate mitigation,2050,Other carbonate uses,Mineral industry,CO2,3917.509
+Moderate mitigation,2050,Pig iron,Metal industry,CO2,3649.460901
+Moderate mitigation,2050,Steel,Metal industry,CO2,345.416328
+Moderate mitigation,2050,Sinter,Metal industry,CO2,795.390577
+Moderate mitigation,2050,Pellets,Metal industry,CO2,236.45086
+Moderate mitigation,2050,Ferroalloys (CO2),Metal industry,CO2,2444.55705
+Moderate mitigation,2050,Ferroalloys (CH4),Metal industry,CH4,0.633487
+Moderate mitigation,2050,Aluminium,Metal industry,CO2,277.213963
+Moderate mitigation,2050,Zinc,Metal industry,CO2,179.34245
+Moderate mitigation,2050,Ammonia,Chemical industry,CO2,315.5867
+Moderate mitigation,2050,Nitric acid,Chemical industry,N2O,104.1768
+Moderate mitigation,2050,Calcium carbide,Chemical industry,CO2,12.9129
+Ambitious mitigation,2024,Cement clinker,Mineral industry,CO2,4459.855
+Ambitious mitigation,2024,Lime,Mineral industry,CO2,744.159
+Ambitious mitigation,2024,Glass,Mineral industry,CO2,103.517
+Ambitious mitigation,2024,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2024,Pig iron,Metal industry,CO2,5614.555233
+Ambitious mitigation,2024,Steel,Metal industry,CO2,531.409735
+Ambitious mitigation,2024,Sinter,Metal industry,CO2,1223.677811
+Ambitious mitigation,2024,Pellets,Metal industry,CO2,363.770554
+Ambitious mitigation,2024,Ferroalloys (CO2),Metal industry,CO2,3760.857
+Ambitious mitigation,2024,Ferroalloys (CH4),Metal industry,CH4,0.974596
+Ambitious mitigation,2024,Aluminium,Metal industry,CO2,426.48302
+Ambitious mitigation,2024,Zinc,Metal industry,CO2,275.911461
+Ambitious mitigation,2024,Ammonia,Chemical industry,CO2,485.518
+Ambitious mitigation,2024,Nitric acid,Chemical industry,N2O,160.272
+Ambitious mitigation,2024,Calcium carbide,Chemical industry,CO2,19.866
+Ambitious mitigation,2025,Cement clinker,Mineral industry,CO2,4236.86225
+Ambitious mitigation,2025,Lime,Mineral industry,CO2,706.95105
+Ambitious mitigation,2025,Glass,Mineral industry,CO2,98.34115
+Ambitious mitigation,2025,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2025,Pig iron,Metal industry,CO2,5380.615432
+Ambitious mitigation,2025,Steel,Metal industry,CO2,509.267663
+Ambitious mitigation,2025,Sinter,Metal industry,CO2,1172.691236
+Ambitious mitigation,2025,Pellets,Metal industry,CO2,348.613448
+Ambitious mitigation,2025,Ferroalloys (CO2),Metal industry,CO2,3604.154625
+Ambitious mitigation,2025,Ferroalloys (CH4),Metal industry,CH4,0.933988
+Ambitious mitigation,2025,Aluminium,Metal industry,CO2,408.712894
+Ambitious mitigation,2025,Zinc,Metal industry,CO2,264.41515
+Ambitious mitigation,2025,Ammonia,Chemical industry,CO2,461.2421
+Ambitious mitigation,2025,Nitric acid,Chemical industry,N2O,152.2584
+Ambitious mitigation,2025,Calcium carbide,Chemical industry,CO2,18.8727
+Ambitious mitigation,2026,Cement clinker,Mineral industry,CO2,4013.8695
+Ambitious mitigation,2026,Lime,Mineral industry,CO2,669.7431
+Ambitious mitigation,2026,Glass,Mineral industry,CO2,93.1653
+Ambitious mitigation,2026,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2026,Pig iron,Metal industry,CO2,5146.67563
+Ambitious mitigation,2026,Steel,Metal industry,CO2,487.12559
+Ambitious mitigation,2026,Sinter,Metal industry,CO2,1121.70466
+Ambitious mitigation,2026,Pellets,Metal industry,CO2,333.456341
+Ambitious mitigation,2026,Ferroalloys (CO2),Metal industry,CO2,3447.45225
+Ambitious mitigation,2026,Ferroalloys (CH4),Metal industry,CH4,0.89338
+Ambitious mitigation,2026,Aluminium,Metal industry,CO2,390.942768
+Ambitious mitigation,2026,Zinc,Metal industry,CO2,252.918839
+Ambitious mitigation,2026,Ammonia,Chemical industry,CO2,436.9662
+Ambitious mitigation,2026,Nitric acid,Chemical industry,N2O,144.2448
+Ambitious mitigation,2026,Calcium carbide,Chemical industry,CO2,17.8794
+Ambitious mitigation,2027,Cement clinker,Mineral industry,CO2,3790.87675
+Ambitious mitigation,2027,Lime,Mineral industry,CO2,632.53515
+Ambitious mitigation,2027,Glass,Mineral industry,CO2,87.98945
+Ambitious mitigation,2027,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2027,Pig iron,Metal industry,CO2,4912.735829
+Ambitious mitigation,2027,Steel,Metal industry,CO2,464.983518
+Ambitious mitigation,2027,Sinter,Metal industry,CO2,1070.718085
+Ambitious mitigation,2027,Pellets,Metal industry,CO2,318.299235
+Ambitious mitigation,2027,Ferroalloys (CO2),Metal industry,CO2,3290.749875
+Ambitious mitigation,2027,Ferroalloys (CH4),Metal industry,CH4,0.852772
+Ambitious mitigation,2027,Aluminium,Metal industry,CO2,373.172642
+Ambitious mitigation,2027,Zinc,Metal industry,CO2,241.422528
+Ambitious mitigation,2027,Ammonia,Chemical industry,CO2,412.6903
+Ambitious mitigation,2027,Nitric acid,Chemical industry,N2O,136.2312
+Ambitious mitigation,2027,Calcium carbide,Chemical industry,CO2,16.8861
+Ambitious mitigation,2028,Cement clinker,Mineral industry,CO2,3567.884
+Ambitious mitigation,2028,Lime,Mineral industry,CO2,595.3272
+Ambitious mitigation,2028,Glass,Mineral industry,CO2,82.8136
+Ambitious mitigation,2028,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2028,Pig iron,Metal industry,CO2,4678.796028
+Ambitious mitigation,2028,Steel,Metal industry,CO2,442.841446
+Ambitious mitigation,2028,Sinter,Metal industry,CO2,1019.731509
+Ambitious mitigation,2028,Pellets,Metal industry,CO2,303.142128
+Ambitious mitigation,2028,Ferroalloys (CO2),Metal industry,CO2,3134.0475
+Ambitious mitigation,2028,Ferroalloys (CH4),Metal industry,CH4,0.812163
+Ambitious mitigation,2028,Aluminium,Metal industry,CO2,355.402517
+Ambitious mitigation,2028,Zinc,Metal industry,CO2,229.926218
+Ambitious mitigation,2028,Ammonia,Chemical industry,CO2,388.4144
+Ambitious mitigation,2028,Nitric acid,Chemical industry,N2O,128.2176
+Ambitious mitigation,2028,Calcium carbide,Chemical industry,CO2,15.8928
+Ambitious mitigation,2029,Cement clinker,Mineral industry,CO2,3344.89125
+Ambitious mitigation,2029,Lime,Mineral industry,CO2,558.11925
+Ambitious mitigation,2029,Glass,Mineral industry,CO2,77.63775
+Ambitious mitigation,2029,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2029,Pig iron,Metal industry,CO2,4444.856226
+Ambitious mitigation,2029,Steel,Metal industry,CO2,420.699374
+Ambitious mitigation,2029,Sinter,Metal industry,CO2,968.744934
+Ambitious mitigation,2029,Pellets,Metal industry,CO2,287.985022
+Ambitious mitigation,2029,Ferroalloys (CO2),Metal industry,CO2,2977.345125
+Ambitious mitigation,2029,Ferroalloys (CH4),Metal industry,CH4,0.771555
+Ambitious mitigation,2029,Aluminium,Metal industry,CO2,337.632391
+Ambitious mitigation,2029,Zinc,Metal industry,CO2,218.429907
+Ambitious mitigation,2029,Ammonia,Chemical industry,CO2,364.1385
+Ambitious mitigation,2029,Nitric acid,Chemical industry,N2O,120.204
+Ambitious mitigation,2029,Calcium carbide,Chemical industry,CO2,14.8995
+Ambitious mitigation,2030,Cement clinker,Mineral industry,CO2,3121.8985
+Ambitious mitigation,2030,Lime,Mineral industry,CO2,520.9113
+Ambitious mitigation,2030,Glass,Mineral industry,CO2,72.4619
+Ambitious mitigation,2030,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2030,Pig iron,Metal industry,CO2,4210.916425
+Ambitious mitigation,2030,Steel,Metal industry,CO2,398.557301
+Ambitious mitigation,2030,Sinter,Metal industry,CO2,917.758358
+Ambitious mitigation,2030,Pellets,Metal industry,CO2,272.827916
+Ambitious mitigation,2030,Ferroalloys (CO2),Metal industry,CO2,2820.64275
+Ambitious mitigation,2030,Ferroalloys (CH4),Metal industry,CH4,0.730947
+Ambitious mitigation,2030,Aluminium,Metal industry,CO2,319.862265
+Ambitious mitigation,2030,Zinc,Metal industry,CO2,206.933596
+Ambitious mitigation,2030,Ammonia,Chemical industry,CO2,339.8626
+Ambitious mitigation,2030,Nitric acid,Chemical industry,N2O,112.1904
+Ambitious mitigation,2030,Calcium carbide,Chemical industry,CO2,13.9062
+Ambitious mitigation,2031,Cement clinker,Mineral industry,CO2,3032.7014
+Ambitious mitigation,2031,Lime,Mineral industry,CO2,506.02812
+Ambitious mitigation,2031,Glass,Mineral industry,CO2,70.39156
+Ambitious mitigation,2031,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2031,Pig iron,Metal industry,CO2,4098.62532
+Ambitious mitigation,2031,Steel,Metal industry,CO2,387.929107
+Ambitious mitigation,2031,Sinter,Metal industry,CO2,893.284802
+Ambitious mitigation,2031,Pellets,Metal industry,CO2,265.552504
+Ambitious mitigation,2031,Ferroalloys (CO2),Metal industry,CO2,2745.42561
+Ambitious mitigation,2031,Ferroalloys (CH4),Metal industry,CH4,0.711455
+Ambitious mitigation,2031,Aluminium,Metal industry,CO2,311.332605
+Ambitious mitigation,2031,Zinc,Metal industry,CO2,201.415367
+Ambitious mitigation,2031,Ammonia,Chemical industry,CO2,330.15224
+Ambitious mitigation,2031,Nitric acid,Chemical industry,N2O,108.98496
+Ambitious mitigation,2031,Calcium carbide,Chemical industry,CO2,13.50888
+Ambitious mitigation,2032,Cement clinker,Mineral industry,CO2,2943.5043
+Ambitious mitigation,2032,Lime,Mineral industry,CO2,491.14494
+Ambitious mitigation,2032,Glass,Mineral industry,CO2,68.32122
+Ambitious mitigation,2032,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2032,Pig iron,Metal industry,CO2,3986.334215
+Ambitious mitigation,2032,Steel,Metal industry,CO2,377.300912
+Ambitious mitigation,2032,Sinter,Metal industry,CO2,868.811246
+Ambitious mitigation,2032,Pellets,Metal industry,CO2,258.277093
+Ambitious mitigation,2032,Ferroalloys (CO2),Metal industry,CO2,2670.20847
+Ambitious mitigation,2032,Ferroalloys (CH4),Metal industry,CH4,0.691963
+Ambitious mitigation,2032,Aluminium,Metal industry,CO2,302.802944
+Ambitious mitigation,2032,Zinc,Metal industry,CO2,195.897137
+Ambitious mitigation,2032,Ammonia,Chemical industry,CO2,320.44188
+Ambitious mitigation,2032,Nitric acid,Chemical industry,N2O,105.77952
+Ambitious mitigation,2032,Calcium carbide,Chemical industry,CO2,13.11156
+Ambitious mitigation,2033,Cement clinker,Mineral industry,CO2,2854.3072
+Ambitious mitigation,2033,Lime,Mineral industry,CO2,476.26176
+Ambitious mitigation,2033,Glass,Mineral industry,CO2,66.25088
+Ambitious mitigation,2033,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2033,Pig iron,Metal industry,CO2,3874.043111
+Ambitious mitigation,2033,Steel,Metal industry,CO2,366.672717
+Ambitious mitigation,2033,Sinter,Metal industry,CO2,844.33769
+Ambitious mitigation,2033,Pellets,Metal industry,CO2,251.001682
+Ambitious mitigation,2033,Ferroalloys (CO2),Metal industry,CO2,2594.99133
+Ambitious mitigation,2033,Ferroalloys (CH4),Metal industry,CH4,0.672471
+Ambitious mitigation,2033,Aluminium,Metal industry,CO2,294.273284
+Ambitious mitigation,2033,Zinc,Metal industry,CO2,190.378908
+Ambitious mitigation,2033,Ammonia,Chemical industry,CO2,310.73152
+Ambitious mitigation,2033,Nitric acid,Chemical industry,N2O,102.57408
+Ambitious mitigation,2033,Calcium carbide,Chemical industry,CO2,12.71424
+Ambitious mitigation,2034,Cement clinker,Mineral industry,CO2,2765.1101
+Ambitious mitigation,2034,Lime,Mineral industry,CO2,461.37858
+Ambitious mitigation,2034,Glass,Mineral industry,CO2,64.18054
+Ambitious mitigation,2034,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2034,Pig iron,Metal industry,CO2,3761.752006
+Ambitious mitigation,2034,Steel,Metal industry,CO2,356.044522
+Ambitious mitigation,2034,Sinter,Metal industry,CO2,819.864133
+Ambitious mitigation,2034,Pellets,Metal industry,CO2,243.726271
+Ambitious mitigation,2034,Ferroalloys (CO2),Metal industry,CO2,2519.77419
+Ambitious mitigation,2034,Ferroalloys (CH4),Metal industry,CH4,0.652979
+Ambitious mitigation,2034,Aluminium,Metal industry,CO2,285.743623
+Ambitious mitigation,2034,Zinc,Metal industry,CO2,184.860679
+Ambitious mitigation,2034,Ammonia,Chemical industry,CO2,301.02116
+Ambitious mitigation,2034,Nitric acid,Chemical industry,N2O,99.36864
+Ambitious mitigation,2034,Calcium carbide,Chemical industry,CO2,12.31692
+Ambitious mitigation,2035,Cement clinker,Mineral industry,CO2,2675.913
+Ambitious mitigation,2035,Lime,Mineral industry,CO2,446.4954
+Ambitious mitigation,2035,Glass,Mineral industry,CO2,62.1102
+Ambitious mitigation,2035,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2035,Pig iron,Metal industry,CO2,3649.460901
+Ambitious mitigation,2035,Steel,Metal industry,CO2,345.416328
+Ambitious mitigation,2035,Sinter,Metal industry,CO2,795.390577
+Ambitious mitigation,2035,Pellets,Metal industry,CO2,236.45086
+Ambitious mitigation,2035,Ferroalloys (CO2),Metal industry,CO2,2444.55705
+Ambitious mitigation,2035,Ferroalloys (CH4),Metal industry,CH4,0.633487
+Ambitious mitigation,2035,Aluminium,Metal industry,CO2,277.213963
+Ambitious mitigation,2035,Zinc,Metal industry,CO2,179.34245
+Ambitious mitigation,2035,Ammonia,Chemical industry,CO2,291.3108
+Ambitious mitigation,2035,Nitric acid,Chemical industry,N2O,96.1632
+Ambitious mitigation,2035,Calcium carbide,Chemical industry,CO2,11.9196
+Ambitious mitigation,2036,Cement clinker,Mineral industry,CO2,2586.7159
+Ambitious mitigation,2036,Lime,Mineral industry,CO2,431.61222
+Ambitious mitigation,2036,Glass,Mineral industry,CO2,60.03986
+Ambitious mitigation,2036,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2036,Pig iron,Metal industry,CO2,3537.169797
+Ambitious mitigation,2036,Steel,Metal industry,CO2,334.788133
+Ambitious mitigation,2036,Sinter,Metal industry,CO2,770.917021
+Ambitious mitigation,2036,Pellets,Metal industry,CO2,229.175449
+Ambitious mitigation,2036,Ferroalloys (CO2),Metal industry,CO2,2369.33991
+Ambitious mitigation,2036,Ferroalloys (CH4),Metal industry,CH4,0.613995
+Ambitious mitigation,2036,Aluminium,Metal industry,CO2,268.684303
+Ambitious mitigation,2036,Zinc,Metal industry,CO2,173.82422
+Ambitious mitigation,2036,Ammonia,Chemical industry,CO2,281.60044
+Ambitious mitigation,2036,Nitric acid,Chemical industry,N2O,92.95776
+Ambitious mitigation,2036,Calcium carbide,Chemical industry,CO2,11.52228
+Ambitious mitigation,2037,Cement clinker,Mineral industry,CO2,2497.5188
+Ambitious mitigation,2037,Lime,Mineral industry,CO2,416.72904
+Ambitious mitigation,2037,Glass,Mineral industry,CO2,57.96952
+Ambitious mitigation,2037,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2037,Pig iron,Metal industry,CO2,3424.878692
+Ambitious mitigation,2037,Steel,Metal industry,CO2,324.159938
+Ambitious mitigation,2037,Sinter,Metal industry,CO2,746.443465
+Ambitious mitigation,2037,Pellets,Metal industry,CO2,221.900038
+Ambitious mitigation,2037,Ferroalloys (CO2),Metal industry,CO2,2294.12277
+Ambitious mitigation,2037,Ferroalloys (CH4),Metal industry,CH4,0.594504
+Ambitious mitigation,2037,Aluminium,Metal industry,CO2,260.154642
+Ambitious mitigation,2037,Zinc,Metal industry,CO2,168.305991
+Ambitious mitigation,2037,Ammonia,Chemical industry,CO2,271.89008
+Ambitious mitigation,2037,Nitric acid,Chemical industry,N2O,89.75232
+Ambitious mitigation,2037,Calcium carbide,Chemical industry,CO2,11.12496
+Ambitious mitigation,2038,Cement clinker,Mineral industry,CO2,2408.3217
+Ambitious mitigation,2038,Lime,Mineral industry,CO2,401.84586
+Ambitious mitigation,2038,Glass,Mineral industry,CO2,55.89918
+Ambitious mitigation,2038,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2038,Pig iron,Metal industry,CO2,3312.587587
+Ambitious mitigation,2038,Steel,Metal industry,CO2,313.531744
+Ambitious mitigation,2038,Sinter,Metal industry,CO2,721.969908
+Ambitious mitigation,2038,Pellets,Metal industry,CO2,214.624627
+Ambitious mitigation,2038,Ferroalloys (CO2),Metal industry,CO2,2218.90563
+Ambitious mitigation,2038,Ferroalloys (CH4),Metal industry,CH4,0.575012
+Ambitious mitigation,2038,Aluminium,Metal industry,CO2,251.624982
+Ambitious mitigation,2038,Zinc,Metal industry,CO2,162.787762
+Ambitious mitigation,2038,Ammonia,Chemical industry,CO2,262.17972
+Ambitious mitigation,2038,Nitric acid,Chemical industry,N2O,86.54688
+Ambitious mitigation,2038,Calcium carbide,Chemical industry,CO2,10.72764
+Ambitious mitigation,2039,Cement clinker,Mineral industry,CO2,2319.1246
+Ambitious mitigation,2039,Lime,Mineral industry,CO2,386.96268
+Ambitious mitigation,2039,Glass,Mineral industry,CO2,53.82884
+Ambitious mitigation,2039,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2039,Pig iron,Metal industry,CO2,3200.296483
+Ambitious mitigation,2039,Steel,Metal industry,CO2,302.903549
+Ambitious mitigation,2039,Sinter,Metal industry,CO2,697.496352
+Ambitious mitigation,2039,Pellets,Metal industry,CO2,207.349216
+Ambitious mitigation,2039,Ferroalloys (CO2),Metal industry,CO2,2143.68849
+Ambitious mitigation,2039,Ferroalloys (CH4),Metal industry,CH4,0.55552
+Ambitious mitigation,2039,Aluminium,Metal industry,CO2,243.095321
+Ambitious mitigation,2039,Zinc,Metal industry,CO2,157.269533
+Ambitious mitigation,2039,Ammonia,Chemical industry,CO2,252.46936
+Ambitious mitigation,2039,Nitric acid,Chemical industry,N2O,83.34144
+Ambitious mitigation,2039,Calcium carbide,Chemical industry,CO2,10.33032
+Ambitious mitigation,2040,Cement clinker,Mineral industry,CO2,2229.9275
+Ambitious mitigation,2040,Lime,Mineral industry,CO2,372.0795
+Ambitious mitigation,2040,Glass,Mineral industry,CO2,51.7585
+Ambitious mitigation,2040,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2040,Pig iron,Metal industry,CO2,3088.005378
+Ambitious mitigation,2040,Steel,Metal industry,CO2,292.275354
+Ambitious mitigation,2040,Sinter,Metal industry,CO2,673.022796
+Ambitious mitigation,2040,Pellets,Metal industry,CO2,200.073805
+Ambitious mitigation,2040,Ferroalloys (CO2),Metal industry,CO2,2068.47135
+Ambitious mitigation,2040,Ferroalloys (CH4),Metal industry,CH4,0.536028
+Ambitious mitigation,2040,Aluminium,Metal industry,CO2,234.565661
+Ambitious mitigation,2040,Zinc,Metal industry,CO2,151.751304
+Ambitious mitigation,2040,Ammonia,Chemical industry,CO2,242.759
+Ambitious mitigation,2040,Nitric acid,Chemical industry,N2O,80.136
+Ambitious mitigation,2040,Calcium carbide,Chemical industry,CO2,9.933
+Ambitious mitigation,2041,Cement clinker,Mineral industry,CO2,2140.7304
+Ambitious mitigation,2041,Lime,Mineral industry,CO2,357.19632
+Ambitious mitigation,2041,Glass,Mineral industry,CO2,49.68816
+Ambitious mitigation,2041,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2041,Pig iron,Metal industry,CO2,2975.714273
+Ambitious mitigation,2041,Steel,Metal industry,CO2,281.64716
+Ambitious mitigation,2041,Sinter,Metal industry,CO2,648.54924
+Ambitious mitigation,2041,Pellets,Metal industry,CO2,192.798394
+Ambitious mitigation,2041,Ferroalloys (CO2),Metal industry,CO2,1993.25421
+Ambitious mitigation,2041,Ferroalloys (CH4),Metal industry,CH4,0.516536
+Ambitious mitigation,2041,Aluminium,Metal industry,CO2,226.036001
+Ambitious mitigation,2041,Zinc,Metal industry,CO2,146.233074
+Ambitious mitigation,2041,Ammonia,Chemical industry,CO2,233.04864
+Ambitious mitigation,2041,Nitric acid,Chemical industry,N2O,76.93056
+Ambitious mitigation,2041,Calcium carbide,Chemical industry,CO2,9.53568
+Ambitious mitigation,2042,Cement clinker,Mineral industry,CO2,2051.5333
+Ambitious mitigation,2042,Lime,Mineral industry,CO2,342.31314
+Ambitious mitigation,2042,Glass,Mineral industry,CO2,47.61782
+Ambitious mitigation,2042,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2042,Pig iron,Metal industry,CO2,2863.423169
+Ambitious mitigation,2042,Steel,Metal industry,CO2,271.018965
+Ambitious mitigation,2042,Sinter,Metal industry,CO2,624.075684
+Ambitious mitigation,2042,Pellets,Metal industry,CO2,185.522983
+Ambitious mitigation,2042,Ferroalloys (CO2),Metal industry,CO2,1918.03707
+Ambitious mitigation,2042,Ferroalloys (CH4),Metal industry,CH4,0.497044
+Ambitious mitigation,2042,Aluminium,Metal industry,CO2,217.50634
+Ambitious mitigation,2042,Zinc,Metal industry,CO2,140.714845
+Ambitious mitigation,2042,Ammonia,Chemical industry,CO2,223.33828
+Ambitious mitigation,2042,Nitric acid,Chemical industry,N2O,73.72512
+Ambitious mitigation,2042,Calcium carbide,Chemical industry,CO2,9.13836
+Ambitious mitigation,2043,Cement clinker,Mineral industry,CO2,1962.3362
+Ambitious mitigation,2043,Lime,Mineral industry,CO2,327.42996
+Ambitious mitigation,2043,Glass,Mineral industry,CO2,45.54748
+Ambitious mitigation,2043,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2043,Pig iron,Metal industry,CO2,2751.132064
+Ambitious mitigation,2043,Steel,Metal industry,CO2,260.39077
+Ambitious mitigation,2043,Sinter,Metal industry,CO2,599.602127
+Ambitious mitigation,2043,Pellets,Metal industry,CO2,178.247571
+Ambitious mitigation,2043,Ferroalloys (CO2),Metal industry,CO2,1842.81993
+Ambitious mitigation,2043,Ferroalloys (CH4),Metal industry,CH4,0.477552
+Ambitious mitigation,2043,Aluminium,Metal industry,CO2,208.97668
+Ambitious mitigation,2043,Zinc,Metal industry,CO2,135.196616
+Ambitious mitigation,2043,Ammonia,Chemical industry,CO2,213.62792
+Ambitious mitigation,2043,Nitric acid,Chemical industry,N2O,70.51968
+Ambitious mitigation,2043,Calcium carbide,Chemical industry,CO2,8.74104
+Ambitious mitigation,2044,Cement clinker,Mineral industry,CO2,1873.1391
+Ambitious mitigation,2044,Lime,Mineral industry,CO2,312.54678
+Ambitious mitigation,2044,Glass,Mineral industry,CO2,43.47714
+Ambitious mitigation,2044,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2044,Pig iron,Metal industry,CO2,2638.84096
+Ambitious mitigation,2044,Steel,Metal industry,CO2,249.762575
+Ambitious mitigation,2044,Sinter,Metal industry,CO2,575.128571
+Ambitious mitigation,2044,Pellets,Metal industry,CO2,170.97216
+Ambitious mitigation,2044,Ferroalloys (CO2),Metal industry,CO2,1767.60279
+Ambitious mitigation,2044,Ferroalloys (CH4),Metal industry,CH4,0.45806
+Ambitious mitigation,2044,Aluminium,Metal industry,CO2,200.447019
+Ambitious mitigation,2044,Zinc,Metal industry,CO2,129.678387
+Ambitious mitigation,2044,Ammonia,Chemical industry,CO2,203.91756
+Ambitious mitigation,2044,Nitric acid,Chemical industry,N2O,67.31424
+Ambitious mitigation,2044,Calcium carbide,Chemical industry,CO2,8.34372
+Ambitious mitigation,2045,Cement clinker,Mineral industry,CO2,1783.942
+Ambitious mitigation,2045,Lime,Mineral industry,CO2,297.6636
+Ambitious mitigation,2045,Glass,Mineral industry,CO2,41.4068
+Ambitious mitigation,2045,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2045,Pig iron,Metal industry,CO2,2526.549855
+Ambitious mitigation,2045,Steel,Metal industry,CO2,239.134381
+Ambitious mitigation,2045,Sinter,Metal industry,CO2,550.655015
+Ambitious mitigation,2045,Pellets,Metal industry,CO2,163.696749
+Ambitious mitigation,2045,Ferroalloys (CO2),Metal industry,CO2,1692.38565
+Ambitious mitigation,2045,Ferroalloys (CH4),Metal industry,CH4,0.438568
+Ambitious mitigation,2045,Aluminium,Metal industry,CO2,191.917359
+Ambitious mitigation,2045,Zinc,Metal industry,CO2,124.160157
+Ambitious mitigation,2045,Ammonia,Chemical industry,CO2,194.2072
+Ambitious mitigation,2045,Nitric acid,Chemical industry,N2O,64.1088
+Ambitious mitigation,2045,Calcium carbide,Chemical industry,CO2,7.9464
+Ambitious mitigation,2046,Cement clinker,Mineral industry,CO2,1694.7449
+Ambitious mitigation,2046,Lime,Mineral industry,CO2,282.78042
+Ambitious mitigation,2046,Glass,Mineral industry,CO2,39.33646
+Ambitious mitigation,2046,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2046,Pig iron,Metal industry,CO2,2414.25875
+Ambitious mitigation,2046,Steel,Metal industry,CO2,228.506186
+Ambitious mitigation,2046,Sinter,Metal industry,CO2,526.181459
+Ambitious mitigation,2046,Pellets,Metal industry,CO2,156.421338
+Ambitious mitigation,2046,Ferroalloys (CO2),Metal industry,CO2,1617.16851
+Ambitious mitigation,2046,Ferroalloys (CH4),Metal industry,CH4,0.419076
+Ambitious mitigation,2046,Aluminium,Metal industry,CO2,183.387699
+Ambitious mitigation,2046,Zinc,Metal industry,CO2,118.641928
+Ambitious mitigation,2046,Ammonia,Chemical industry,CO2,184.49684
+Ambitious mitigation,2046,Nitric acid,Chemical industry,N2O,60.90336
+Ambitious mitigation,2046,Calcium carbide,Chemical industry,CO2,7.54908
+Ambitious mitigation,2047,Cement clinker,Mineral industry,CO2,1605.5478
+Ambitious mitigation,2047,Lime,Mineral industry,CO2,267.89724
+Ambitious mitigation,2047,Glass,Mineral industry,CO2,37.26612
+Ambitious mitigation,2047,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2047,Pig iron,Metal industry,CO2,2301.967646
+Ambitious mitigation,2047,Steel,Metal industry,CO2,217.877991
+Ambitious mitigation,2047,Sinter,Metal industry,CO2,501.707903
+Ambitious mitigation,2047,Pellets,Metal industry,CO2,149.145927
+Ambitious mitigation,2047,Ferroalloys (CO2),Metal industry,CO2,1541.95137
+Ambitious mitigation,2047,Ferroalloys (CH4),Metal industry,CH4,0.399584
+Ambitious mitigation,2047,Aluminium,Metal industry,CO2,174.858038
+Ambitious mitigation,2047,Zinc,Metal industry,CO2,113.123699
+Ambitious mitigation,2047,Ammonia,Chemical industry,CO2,174.78648
+Ambitious mitigation,2047,Nitric acid,Chemical industry,N2O,57.69792
+Ambitious mitigation,2047,Calcium carbide,Chemical industry,CO2,7.15176
+Ambitious mitigation,2048,Cement clinker,Mineral industry,CO2,1516.3507
+Ambitious mitigation,2048,Lime,Mineral industry,CO2,253.01406
+Ambitious mitigation,2048,Glass,Mineral industry,CO2,35.19578
+Ambitious mitigation,2048,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2048,Pig iron,Metal industry,CO2,2189.676541
+Ambitious mitigation,2048,Steel,Metal industry,CO2,207.249797
+Ambitious mitigation,2048,Sinter,Metal industry,CO2,477.234346
+Ambitious mitigation,2048,Pellets,Metal industry,CO2,141.870516
+Ambitious mitigation,2048,Ferroalloys (CO2),Metal industry,CO2,1466.73423
+Ambitious mitigation,2048,Ferroalloys (CH4),Metal industry,CH4,0.380092
+Ambitious mitigation,2048,Aluminium,Metal industry,CO2,166.328378
+Ambitious mitigation,2048,Zinc,Metal industry,CO2,107.60547
+Ambitious mitigation,2048,Ammonia,Chemical industry,CO2,165.07612
+Ambitious mitigation,2048,Nitric acid,Chemical industry,N2O,54.49248
+Ambitious mitigation,2048,Calcium carbide,Chemical industry,CO2,6.75444
+Ambitious mitigation,2049,Cement clinker,Mineral industry,CO2,1427.1536
+Ambitious mitigation,2049,Lime,Mineral industry,CO2,238.13088
+Ambitious mitigation,2049,Glass,Mineral industry,CO2,33.12544
+Ambitious mitigation,2049,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2049,Pig iron,Metal industry,CO2,2077.385436
+Ambitious mitigation,2049,Steel,Metal industry,CO2,196.621602
+Ambitious mitigation,2049,Sinter,Metal industry,CO2,452.76079
+Ambitious mitigation,2049,Pellets,Metal industry,CO2,134.595105
+Ambitious mitigation,2049,Ferroalloys (CO2),Metal industry,CO2,1391.51709
+Ambitious mitigation,2049,Ferroalloys (CH4),Metal industry,CH4,0.360601
+Ambitious mitigation,2049,Aluminium,Metal industry,CO2,157.798717
+Ambitious mitigation,2049,Zinc,Metal industry,CO2,102.087241
+Ambitious mitigation,2049,Ammonia,Chemical industry,CO2,155.36576
+Ambitious mitigation,2049,Nitric acid,Chemical industry,N2O,51.28704
+Ambitious mitigation,2049,Calcium carbide,Chemical industry,CO2,6.35712
+Ambitious mitigation,2050,Cement clinker,Mineral industry,CO2,1337.9565
+Ambitious mitigation,2050,Lime,Mineral industry,CO2,223.2477
+Ambitious mitigation,2050,Glass,Mineral industry,CO2,31.0551
+Ambitious mitigation,2050,Other carbonate uses,Mineral industry,CO2,3917.509
+Ambitious mitigation,2050,Pig iron,Metal industry,CO2,1965.094332
+Ambitious mitigation,2050,Steel,Metal industry,CO2,185.993407
+Ambitious mitigation,2050,Sinter,Metal industry,CO2,428.287234
+Ambitious mitigation,2050,Pellets,Metal industry,CO2,127.319694
+Ambitious mitigation,2050,Ferroalloys (CO2),Metal industry,CO2,1316.29995
+Ambitious mitigation,2050,Ferroalloys (CH4),Metal industry,CH4,0.341109
+Ambitious mitigation,2050,Aluminium,Metal industry,CO2,149.269057
+Ambitious mitigation,2050,Zinc,Metal industry,CO2,96.569011
+Ambitious mitigation,2050,Ammonia,Chemical industry,CO2,145.6554
+Ambitious mitigation,2050,Nitric acid,Chemical industry,N2O,48.0816
+Ambitious mitigation,2050,Calcium carbide,Chemical industry,CO2,5.9598

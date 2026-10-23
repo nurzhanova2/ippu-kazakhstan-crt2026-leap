@@ -1,0 +1,5 @@
+parameter,value,basis
+s_central,1.00,emissive share of reported 2.A.4.d emissions (decision of 18 October 2026)
+s_lower_bound,0.80,"CRT 2026, 2024: removes the upper limit of the overlap with 2.A.2 lime (744.2 kt CO2, 19.5% of 2.A.4.d = 3,810.9 kt); author estimate; lower bound, not central. (CRT 2025, 2023: 0.84.)"
+base_alternative,mean_last_3_years,"2.A.4.d base: last inventory year (central) versus the mean of the last three inventory years (2022–2024 for CRT 2026), because the residual fluctuates from year to year"
+f_alternative,mineral_group_factors,2.A.4.d with the mineral-group factors of the presented Moderate (0.85/0.60) and Ambitious (0.70/0.30) scenarios; central is f = 1.00

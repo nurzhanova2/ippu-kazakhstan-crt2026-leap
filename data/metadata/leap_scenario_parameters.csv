@@ -1,0 +1,16 @@
+branch_id,process,group,gas,base_t,leap_unit,moderate_f2030,moderate_f2050,ambitious_f2030,ambitious_f2050
+344,Cement clinker,Mineral industry,CO2,4345666.0,Metric Tonne,0.85,0.60,0.70,0.30
+345,Lime,Mineral industry,CO2,721506.0,Metric Tonne,0.85,0.60,0.70,0.30
+347,Glass,Mineral industry,CO2,24480.0,Metric Tonne,0.85,0.60,0.70,0.30
+349,Other carbonate uses,Mineral industry,CO2,4545014.3,Metric Tonne,0.85,0.60,0.70,0.30
+357,Pig iron,Metal industry,CO2,5041002.44,Metric Tonne,0.90,0.65,0.75,0.35
+359,Steel,Metal industry,CO2,432644.70,Metric Tonne,0.90,0.65,0.75,0.35
+365,Sinter,Metal industry,CO2,3538879.52,Metric Tonne,0.90,0.65,0.75,0.35
+367,Pellets,Metal industry,CO2,287330.44,Metric Tonne,0.90,0.65,0.75,0.35
+360,Ferroalloys (CO2),Metal industry,CO2,3425548.28,Metric Tonne,0.90,0.65,0.75,0.35
+361,Ferroalloys (CH4),Metal industry,CH4,36.894,Kilogramme,0.90,0.65,0.75,0.35
+362,Aluminium,Metal industry,CO2,403736.76,Metric Tonne,0.90,0.65,0.75,0.35
+363,Zinc,Metal industry,CO2,274662.10,Metric Tonne,0.90,0.65,0.75,0.35
+352,Ammonia,Chemical industry,CO2,326017.90,Metric Tonne,0.90,0.65,0.70,0.30
+354,Nitric acid,Chemical industry,N2O,592.4,Kilogramme,0.90,0.65,0.70,0.30
+356,Calcium carbide,Chemical industry,CO2,27426.0,Metric Tonne,0.90,0.65,0.70,0.30

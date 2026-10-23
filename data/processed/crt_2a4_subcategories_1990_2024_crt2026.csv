@@ -1,0 +1,211 @@
+inventory_year,row_level,category_code,category_label,activity_description,activity_kt,implied_co2_ef_t_per_t,co2_kt,source_table
+1990,category,2.A.4,Other process uses of carbonates,,,,393.379125,CRT 2026 Table2(I).A-H
+1990,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,64.80514000000001,0.04840665416354319,3.137,CRT 2026 Table2(I).A-H
+1990,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,117.475,0.415,48.75212499999999,CRT 2026 Table2(I).A-H
+1990,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1990,subcategory,2.A.4.d,Other (please specify),,,,341.49,CRT 2026 Table2(I).A-H
+1990,item,2.A.4.d,Useof limestone and dolomite,(please specify),776.114,0.43999979384471866,341.49,CRT 2026 Table2(I).A-H
+1991,category,2.A.4,Other process uses of carbonates,,,,337.123275,CRT 2026 Table2(I).A-H
+1991,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,43.37617,0.04839062554393346,2.099,CRT 2026 Table2(I).A-H
+1991,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,128.285,0.415,53.238274999999994,CRT 2026 Table2(I).A-H
+1991,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1991,subcategory,2.A.4.d,Other (please specify),,,,281.786,CRT 2026 Table2(I).A-H
+1991,item,2.A.4.d,Useof limestone and dolomite,(please specify),640.422,0.44000049967052973,281.786,CRT 2026 Table2(I).A-H
+1992,category,2.A.4,Other process uses of carbonates,,,,291.66152999999997,CRT 2026 Table2(I).A-H
+1992,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,42.89642,0.04839564700271025,2.076,CRT 2026 Table2(I).A-H
+1992,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,132.382,0.415,54.93853,CRT 2026 Table2(I).A-H
+1992,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1992,subcategory,2.A.4.d,Other (please specify),,,,234.647,CRT 2026 Table2(I).A-H
+1992,item,2.A.4.d,Useof limestone and dolomite,(please specify),533.289,0.43999969997506044,234.647,CRT 2026 Table2(I).A-H
+1993,category,2.A.4,Other process uses of carbonates,,,,471.74253500000003,CRT 2026 Table2(I).A-H
+1993,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,49.54522999999999,0.04840021935512259,2.398,CRT 2026 Table2(I).A-H
+1993,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,102.129,0.415,42.383535,CRT 2026 Table2(I).A-H
+1993,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1993,subcategory,2.A.4.d,Other (please specify),,,,426.961,CRT 2026 Table2(I).A-H
+1993,item,2.A.4.d,Useof limestone and dolomite,(please specify),970.367,0.4399995053417934,426.961,CRT 2026 Table2(I).A-H
+1994,category,2.A.4,Other process uses of carbonates,,,,477.101215,CRT 2026 Table2(I).A-H
+1994,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,20.76826,0.048391150727119164,1.005,CRT 2026 Table2(I).A-H
+1994,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,91.521,0.415,37.981215,CRT 2026 Table2(I).A-H
+1994,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1994,subcategory,2.A.4.d,Other (please specify),,,,438.115,CRT 2026 Table2(I).A-H
+1994,item,2.A.4.d,Useof limestone and dolomite,(please specify),995.716,0.43999995982790274,438.115,CRT 2026 Table2(I).A-H
+1995,category,2.A.4,Other process uses of carbonates,,,,576.54125,CRT 2026 Table2(I).A-H
+1995,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,15.56737,0.048370405534139675,0.753,CRT 2026 Table2(I).A-H
+1995,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,100.95,0.415,41.89425,CRT 2026 Table2(I).A-H
+1995,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1995,subcategory,2.A.4.d,Other (please specify),,,,533.894,CRT 2026 Table2(I).A-H
+1995,item,2.A.4.d,Useof limestone and dolomite,(please specify),1213.396,0.4399998022080178,533.894,CRT 2026 Table2(I).A-H
+1996,category,2.A.4,Other process uses of carbonates,,,,639.98479,CRT 2026 Table2(I).A-H
+1996,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,9.6,0.0484375,0.465,CRT 2026 Table2(I).A-H
+1996,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,112.826,0.415,46.82279,CRT 2026 Table2(I).A-H
+1996,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1996,subcategory,2.A.4.d,Other (please specify),,,,592.697,CRT 2026 Table2(I).A-H
+1996,item,2.A.4.d,Useof limestone and dolomite,(please specify),1347.039,0.43999988122095945,592.697,CRT 2026 Table2(I).A-H
+1997,category,2.A.4,Other process uses of carbonates,,,,641.19121,CRT 2026 Table2(I).A-H
+1997,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,7.69639,0.04833434896100639,0.372,CRT 2026 Table2(I).A-H
+1997,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,108.774,0.415,45.14121,CRT 2026 Table2(I).A-H
+1997,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1997,subcategory,2.A.4.d,Other (please specify),,,,595.678,CRT 2026 Table2(I).A-H
+1997,item,2.A.4.d,Useof limestone and dolomite,(please specify),1353.816,0.4399992318010719,595.678,CRT 2026 Table2(I).A-H
+1998,category,2.A.4,Other process uses of carbonates,,,,1122.8481805,CRT 2026 Table2(I).A-H
+1998,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,8.49606,0.048375364580758605,0.411,CRT 2026 Table2(I).A-H
+1998,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,114.7667,0.415,47.6281805,CRT 2026 Table2(I).A-H
+1998,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1998,subcategory,2.A.4.d,Other (please specify),,,,1074.809,CRT 2026 Table2(I).A-H
+1998,item,2.A.4.d,Useof limestone and dolomite,(please specify),2442.747,0.4400001310000586,1074.809,CRT 2026 Table2(I).A-H
+1999,category,2.A.4,Other process uses of carbonates,,,,1289.7935034999998,CRT 2026 Table2(I).A-H
+1999,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,372.07072000000005,0.04839940106009953,18.008,CRT 2026 Table2(I).A-H
+1999,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,114.02289999999999,0.415,47.319503499999996,CRT 2026 Table2(I).A-H
+1999,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+1999,subcategory,2.A.4.d,Other (please specify),,,,1224.466,CRT 2026 Table2(I).A-H
+1999,item,2.A.4.d,Useof limestone and dolomite,(please specify),2782.878,0.4399998850111287,1224.466,CRT 2026 Table2(I).A-H
+2000,category,2.A.4,Other process uses of carbonates,,,,1109.410945,CRT 2026 Table2(I).A-H
+2000,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,453.695946,0.04840025614864101,21.959,CRT 2026 Table2(I).A-H
+2000,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,138.583,0.415,57.511945,CRT 2026 Table2(I).A-H
+2000,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2000,subcategory,2.A.4.d,Other (please specify),,,,1029.94,CRT 2026 Table2(I).A-H
+2000,item,2.A.4.d,Useof limestone and dolomite,(please specify),2340.773,0.43999994873488374,1029.94,CRT 2026 Table2(I).A-H
+2001,category,2.A.4,Other process uses of carbonates,,,,1667.116015,CRT 2026 Table2(I).A-H
+2001,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,341.14956,0.048401059054568325,16.512,CRT 2026 Table2(I).A-H
+2001,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,153.041,0.415,63.512015,CRT 2026 Table2(I).A-H
+2001,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2001,subcategory,2.A.4.d,Other (please specify),,,,1587.092,CRT 2026 Table2(I).A-H
+2001,item,2.A.4.d,Useof limestone and dolomite,(please specify),3585.518,0.44263952935112866,1587.092,CRT 2026 Table2(I).A-H
+2002,category,2.A.4,Other process uses of carbonates,,,,2430.09575,CRT 2026 Table2(I).A-H
+2002,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,650.258842,0.048400725937379874,31.473,CRT 2026 Table2(I).A-H
+2002,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,153.45,0.415,63.681749999999994,CRT 2026 Table2(I).A-H
+2002,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2002,subcategory,2.A.4.d,Other (please specify),,,,2334.941,CRT 2026 Table2(I).A-H
+2002,item,2.A.4.d,Useof limestone and dolomite,(please specify),5284.793,0.44182260308019633,2334.941,CRT 2026 Table2(I).A-H
+2003,category,2.A.4,Other process uses of carbonates,,,,2970.983135,CRT 2026 Table2(I).A-H
+2003,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,657.45217,0.048400479079717694,31.821,CRT 2026 Table2(I).A-H
+2003,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,186.369,0.4149999999999999,77.34313499999999,CRT 2026 Table2(I).A-H
+2003,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2003,subcategory,2.A.4.d,Other (please specify),,,,2861.819,CRT 2026 Table2(I).A-H
+2003,item,2.A.4.d,Useof limestone and dolomite,(please specify),6474.647,0.4420038652300272,2861.819,CRT 2026 Table2(I).A-H
+2004,category,2.A.4,Other process uses of carbonates,,,,2322.08739,CRT 2026 Table2(I).A-H
+2004,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,806.2402899999998,0.04839996274559785,39.022,CRT 2026 Table2(I).A-H
+2004,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,174.666,0.41500000000000004,72.48639,CRT 2026 Table2(I).A-H
+2004,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2004,subcategory,2.A.4.d,Other (please specify),,,,2210.579,CRT 2026 Table2(I).A-H
+2004,item,2.A.4.d,Useof limestone and dolomite,(please specify),4991.167,0.4428982240025229,2210.579,CRT 2026 Table2(I).A-H
+2005,category,2.A.4,Other process uses of carbonates,,,,3250.3452350000002,CRT 2026 Table2(I).A-H
+2005,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1167.394712,0.04840008218231504,56.502,CRT 2026 Table2(I).A-H
+2005,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,156.909,0.415,65.117235,CRT 2026 Table2(I).A-H
+2005,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2005,subcategory,2.A.4.d,Other (please specify),,,,3128.726,CRT 2026 Table2(I).A-H
+2005,item,2.A.4.d,Useof limestone and dolomite,(please specify),7084.015,0.4416599908385287,3128.726,CRT 2026 Table2(I).A-H
+2006,category,2.A.4,Other process uses of carbonates,,,,4019.6717949999997,CRT 2026 Table2(I).A-H
+2006,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1233.7771179999997,0.04839934144410029,59.714,CRT 2026 Table2(I).A-H
+2006,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,173.173,0.415,71.866795,CRT 2026 Table2(I).A-H
+2006,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2006,subcategory,2.A.4.d,Other (please specify),,,,3888.091,CRT 2026 Table2(I).A-H
+2006,item,2.A.4.d,Useof limestone and dolomite,(please specify),8811.704,0.4412416713044378,3888.091,CRT 2026 Table2(I).A-H
+2007,category,2.A.4,Other process uses of carbonates,,,,3358.27388,CRT 2026 Table2(I).A-H
+2007,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1699.3922349999998,0.04840024469100861,82.251,CRT 2026 Table2(I).A-H
+2007,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,199.47199999999998,0.4149999999999999,82.78087999999998,CRT 2026 Table2(I).A-H
+2007,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2007,subcategory,2.A.4.d,Other (please specify),,,,3193.242,CRT 2026 Table2(I).A-H
+2007,item,2.A.4.d,Useof limestone and dolomite,(please specify),7230.95,0.44160753427972815,3193.242,CRT 2026 Table2(I).A-H
+2008,category,2.A.4,Other process uses of carbonates,,,,3662.4786099999997,CRT 2026 Table2(I).A-H
+2008,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1190.302641,0.04840029587063648,57.611,CRT 2026 Table2(I).A-H
+2008,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,231.934,0.415,96.25260999999999,CRT 2026 Table2(I).A-H
+2008,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2008,subcategory,2.A.4.d,Other (please specify),,,,3508.615,CRT 2026 Table2(I).A-H
+2008,item,2.A.4.d,Useof limestone and dolomite,(please specify),7946.112,0.44155116363826735,3508.615,CRT 2026 Table2(I).A-H
+2009,category,2.A.4,Other process uses of carbonates,,,,2884.224045,CRT 2026 Table2(I).A-H
+2009,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1148.568746,0.04840023742035551,55.591,CRT 2026 Table2(I).A-H
+2009,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,199.923,0.41500000000000004,82.968045,CRT 2026 Table2(I).A-H
+2009,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2009,subcategory,2.A.4.d,Other (please specify),,,,2745.665,CRT 2026 Table2(I).A-H
+2009,item,2.A.4.d,Useof limestone and dolomite,(please specify),6216.755,0.441655654758793,2745.665,CRT 2026 Table2(I).A-H
+2010,category,2.A.4,Other process uses of carbonates,,,,2357.07791,CRT 2026 Table2(I).A-H
+2010,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1106.302148,0.048399978339371354,53.545,CRT 2026 Table2(I).A-H
+2010,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,205.354,0.41500000000000004,85.22191000000001,CRT 2026 Table2(I).A-H
+2010,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2010,subcategory,2.A.4.d,Other (please specify),,,,2218.311,CRT 2026 Table2(I).A-H
+2010,item,2.A.4.d,Useof limestone and dolomite,(please specify),5015.76,0.44226817072587205,2218.311,CRT 2026 Table2(I).A-H
+2011,category,2.A.4,Other process uses of carbonates,,,,2156.3793849999997,CRT 2026 Table2(I).A-H
+2011,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1449.5372047,0.04840027546207072,70.158,CRT 2026 Table2(I).A-H
+2011,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,280.319,0.415,116.332385,CRT 2026 Table2(I).A-H
+2011,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2011,subcategory,2.A.4.d,Other (please specify),,,,1969.889,CRT 2026 Table2(I).A-H
+2011,item,2.A.4.d,Useof limestone and dolomite,(please specify),4453.431,0.44233064349711493,1969.889,CRT 2026 Table2(I).A-H
+2012,category,2.A.4,Other process uses of carbonates,,,,1369.06461,CRT 2026 Table2(I).A-H
+2012,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,1544.5761067,0.048399686927515,74.757,CRT 2026 Table2(I).A-H
+2012,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,266.334,0.415,110.52861,CRT 2026 Table2(I).A-H
+2012,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2012,subcategory,2.A.4.d,Other (please specify),,,,1183.779,CRT 2026 Table2(I).A-H
+2012,item,2.A.4.d,Useof limestone and dolomite,(please specify),2664.892,0.4442127485841828,1183.779,CRT 2026 Table2(I).A-H
+2013,category,2.A.4,Other process uses of carbonates,,,,3364.17223,CRT 2026 Table2(I).A-H
+2013,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,343.4021874,0.04840097299857793,16.621,CRT 2026 Table2(I).A-H
+2013,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,235.562,0.415,97.75823,CRT 2026 Table2(I).A-H
+2013,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2013,subcategory,2.A.4.d,Other (please specify),,,,3249.793,CRT 2026 Table2(I).A-H
+2013,item,2.A.4.d,Useof limestone and dolomite,(please specify),7336.629,0.4429545231195417,3249.793,CRT 2026 Table2(I).A-H
+2014,category,2.A.4,Other process uses of carbonates,,,,2456.61283,CRT 2026 Table2(I).A-H
+2014,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,554.8245860000001,0.04840088322978534,26.854,CRT 2026 Table2(I).A-H
+2014,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,174.202,0.415,72.29383,CRT 2026 Table2(I).A-H
+2014,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2014,subcategory,2.A.4.d,Other (please specify),,,,2357.465,CRT 2026 Table2(I).A-H
+2014,item,2.A.4.d,Useof limestone and dolomite,(please specify),5309.221,0.44403218475930845,2357.465,CRT 2026 Table2(I).A-H
+2015,category,2.A.4,Other process uses of carbonates,,,,3412.93401,CRT 2026 Table2(I).A-H
+2015,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,485.499773,0.04839961068323713,23.498,CRT 2026 Table2(I).A-H
+2015,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,173.69400000000002,0.415,72.08301,CRT 2026 Table2(I).A-H
+2015,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2015,subcategory,2.A.4.d,Other (please specify),,,,3317.353,CRT 2026 Table2(I).A-H
+2015,item,2.A.4.d,Useof limestone and dolomite,(please specify),7438.732,0.4459567840325475,3317.353,CRT 2026 Table2(I).A-H
+2016,category,2.A.4,Other process uses of carbonates,,,,2506.134055,CRT 2026 Table2(I).A-H
+2016,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,473.366247,0.04840015557763248,22.911,CRT 2026 Table2(I).A-H
+2016,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,173.417,0.415,71.96805499999999,CRT 2026 Table2(I).A-H
+2016,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2016,subcategory,2.A.4.d,Other (please specify),,,,2411.255,CRT 2026 Table2(I).A-H
+2016,item,2.A.4.d,Useof limestone and dolomite,(please specify),5380.505,0.44814659590503125,2411.255,CRT 2026 Table2(I).A-H
+2017,category,2.A.4,Other process uses of carbonates,,,,2548.12156,CRT 2026 Table2(I).A-H
+2017,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,513.8437089999999,0.04839993088248553,24.87,CRT 2026 Table2(I).A-H
+2017,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,171.464,0.4149999999999999,71.15755999999999,CRT 2026 Table2(I).A-H
+2017,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2017,subcategory,2.A.4.d,Other (please specify),,,,2452.094,CRT 2026 Table2(I).A-H
+2017,item,2.A.4.d,Useof limestone and dolomite,(please specify),5477.82,0.4476404847183734,2452.094,CRT 2026 Table2(I).A-H
+2018,category,2.A.4,Other process uses of carbonates,,,,2187.2144599999997,CRT 2026 Table2(I).A-H
+2018,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,587.188796,0.048398403024025004,28.419,CRT 2026 Table2(I).A-H
+2018,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,186.724,0.41500000000000004,77.49046,CRT 2026 Table2(I).A-H
+2018,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2018,subcategory,2.A.4.d,Other (please specify),,,,2081.305,CRT 2026 Table2(I).A-H
+2018,item,2.A.4.d,Useof limestone and dolomite,(please specify),4623.23,0.4501841785937537,2081.305,CRT 2026 Table2(I).A-H
+2019,category,2.A.4,Other process uses of carbonates,,,,2504.6346099999996,CRT 2026 Table2(I).A-H
+2019,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,649.9696600000001,0.048400720735180154,31.459,CRT 2026 Table2(I).A-H
+2019,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,173.13400000000001,0.415,71.85061,CRT 2026 Table2(I).A-H
+2019,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2019,subcategory,2.A.4.d,Other (please specify),,,,2401.325,CRT 2026 Table2(I).A-H
+2019,item,2.A.4.d,Useof limestone and dolomite,(please specify),5345.498,0.44922381413293955,2401.325,CRT 2026 Table2(I).A-H
+2020,category,2.A.4,Other process uses of carbonates,,,,2692.9649249999998,CRT 2026 Table2(I).A-H
+2020,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,593.4673119999999,0.04840030683947763,28.724,CRT 2026 Table2(I).A-H
+2020,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,171.995,0.41500000000000004,71.377925,CRT 2026 Table2(I).A-H
+2020,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2020,subcategory,2.A.4.d,Other (please specify),,,,2592.863,CRT 2026 Table2(I).A-H
+2020,item,2.A.4.d,Useof limestone and dolomite,(please specify),5781.7575,0.44845585446985625,2592.863,CRT 2026 Table2(I).A-H
+2021,category,2.A.4,Other process uses of carbonates,,,,3127.494675,CRT 2026 Table2(I).A-H
+2021,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,580.7229626,0.048400014826622255,28.107,CRT 2026 Table2(I).A-H
+2021,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,180.445,0.4149999999999999,74.88467499999999,CRT 2026 Table2(I).A-H
+2021,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2021,subcategory,2.A.4.d,Other (please specify),,,,3024.503,CRT 2026 Table2(I).A-H
+2021,item,2.A.4.d,Useof limestone and dolomite,(please specify),6756.642,0.4476340466166478,3024.503,CRT 2026 Table2(I).A-H
+2022,category,2.A.4,Other process uses of carbonates,,,,3371.87122,CRT 2026 Table2(I).A-H
+2022,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,714.9193689,0.04839986368426393,34.602,CRT 2026 Table2(I).A-H
+2022,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,159.868,0.415,66.34522,CRT 2026 Table2(I).A-H
+2022,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2022,subcategory,2.A.4.d,Other (please specify),,,,3270.924,CRT 2026 Table2(I).A-H
+2022,item,2.A.4.d,Useof limestone and dolomite,(please specify),7310.458,0.44743079024597365,3270.924,CRT 2026 Table2(I).A-H
+2023,category,2.A.4,Other process uses of carbonates,,,,3959.366,CRT 2026 Table2(I).A-H
+2023,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,668.521,0.04839937713250594,32.356,CRT 2026 Table2(I).A-H
+2023,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,172.265,0.4149943401155198,71.489,CRT 2026 Table2(I).A-H
+2023,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2023,subcategory,2.A.4.d,Other (please specify),,,,3855.521,CRT 2026 Table2(I).A-H
+2023,item,2.A.4.d,Useof limestone and dolomite,(please specify),7426.172,0.5191801374921023,3855.521,CRT 2026 Table2(I).A-H
+2024,category,2.A.4,Other process uses of carbonates,,,,3917.509,CRT 2026 Table2(I).A-H
+2024,subcategory,2.A.4.a,Ceramics,Ceramics/Bricks/Tiles produced,689.0817,0.048400646831863334,33.352,CRT 2026 Table2(I).A-H
+2024,subcategory,2.A.4.b,Other uses of soda ash,Soda ash consumed,176.605,0.414999575323462,73.291,CRT 2026 Table2(I).A-H
+2024,subcategory,2.A.4.c,Non-metallurgical magnesium production,Carbonates consumed,NO,NO,NO,CRT 2026 Table2(I).A-H
+2024,subcategory,2.A.4.d,Other (please specify),,,,3810.866,CRT 2026 Table2(I).A-H
+2024,item,2.A.4.d,Useof limestone and dolomite,(please specify),7631.479,0.4993613950847535,3810.866,CRT 2026 Table2(I).A-H

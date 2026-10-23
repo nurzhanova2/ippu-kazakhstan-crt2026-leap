@@ -1,0 +1,7 @@
+year,growth_set,growth_min,growth_max,growth_range,factor_min,factor_max,factor_range,factor_to_growth_ratio
+2030,growth stops by 2030: zero/trend/official,21036.5,28717.2,7680.7,20994.3,25770.7,4776.3,0.62
+2030,plausible: plus 1.5%/yr to 2050,21036.5,28717.2,7680.7,20994.3,25770.7,4776.3,0.62
+2030,stress test: plus half official to 2050,21036.5,28717.2,7680.7,20994.3,25770.7,4776.3,0.62
+2050,growth stops by 2030: zero/trend/official,14009.1,19440.2,5431.0,8793.8,23513.6,14719.8,2.71
+2050,plausible: plus 1.5%/yr to 2050,14009.1,20631.4,6622.3,8793.8,23513.6,14719.8,2.22
+2050,stress test: plus half official to 2050,14009.1,33778.8,19769.7,8793.8,23513.6,14719.8,0.74

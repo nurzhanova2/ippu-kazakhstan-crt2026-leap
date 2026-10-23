@@ -1,0 +1,17 @@
+process,ippu_category,activity_2024,activity_unit,trend_rate_pct_per_year_2025_2030,official_rate_pct_per_year_2025_2029,multiplier_2050_zero,average_rate_pct_2024_2050_zero,multiplier_2050_trend,average_rate_pct_2024_2050_trend,multiplier_2050_official,average_rate_pct_2024_2050_official,multiplier_2050_constant_1_5,average_rate_pct_2024_2050_constant_1_5,multiplier_2050_stress_half_official,average_rate_pct_2024_2050_stress_half_official
+Cement clinker,2.A.1,8471.4,kt product,4.67,5.8,1.0,0.0,1.3152,1.06,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Lime,2.A.2,970.853,kt product,0.23,5.8,1.0,0.0,1.0139,0.05,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Glass,2.A.3,702.413,kt product,0.0,5.8,1.0,0.0,1.0,0.0,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Other carbonate uses: ceramics and soda ash (2.A.4.a+b),2.A.4.a+b,106.643,kt CO2 (proxy),-2.3,5.8,1.0,0.0,0.8699,-0.53,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Other carbonate uses: limestone and dolomite (2.A.4.d),2.A.4.d,3810.866,kt CO2 (proxy),4.79,9.3,1.0,0.0,1.3241,1.09,1.5599,1.72,1.4727,1.5,3.26,4.65
+Pig iron,2.C.1.b,3179.754,kt product,0.37,5.8,1.0,0.0,1.0226,0.09,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Steel,2.C.1.a,4113.462,kt product,0.17,5.8,1.0,0.0,1.0104,0.04,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Sinter,2.C.1.d,5432.806,kt product,0.15,5.8,1.0,0.0,1.0091,0.03,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Pellets,2.C.1.e,5799.2,kt product,-1.16,2.9,1.0,0.0,0.9324,-0.27,1.1537,0.55,1.4727,1.5,1.454,1.45
+Ferroalloys (CO2),2.C.2,2292.848,kt product,2.43,5.8,1.0,0.0,1.1549,0.56,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Ferroalloys (CH4),2.C.2,2292.848,kt product,2.43,5.8,1.0,0.0,1.1549,0.56,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Aluminium,2.C.3,264.507,kt product,1.15,5.8,1.0,0.0,1.0711,0.26,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Zinc,2.C.6,75.386,kt product,-0.45,5.8,1.0,0.0,0.9733,-0.1,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Ammonia,2.B.1,199.157,kt product,7.35,5.8,1.0,0.0,1.5302,1.65,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Nitric acid,2.B.2,262.974,kt product,5.49,5.8,1.0,0.0,1.3783,1.24,1.3256,1.09,1.4727,1.5,2.1028,2.9
+Calcium carbide,2.B.5,23.088,kt product,1.64,5.8,1.0,0.0,1.1026,0.38,1.3256,1.09,1.4727,1.5,2.1028,2.9

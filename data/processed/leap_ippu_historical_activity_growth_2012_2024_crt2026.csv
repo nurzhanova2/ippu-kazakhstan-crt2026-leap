@@ -1,0 +1,19 @@
+process,ippu_category,activity_unit,window,weight_2024_percent,activity_first,activity_2024,cagr_pct,loglinear_trend_pct,in_index,note
+Cement clinker,2.A.1,kt product,2012-2024,20.2,4411.3,8471.4,5.59,4.36,yes,series homogeneous from 2012; 2011-2012 doubling not explained in NID 2026 (pp. 189-193)
+Lime,2.A.2,kt product,2012-2024,3.4,908.2,970.9,0.56,0.39,yes,
+Glass,2.A.3,kt product,2012-2024,0.5,112.7,702.4,16.47,16.82,zero growth,"break in 2022 (flat-glass plant); zero growth in the index, as in the trend variant"
+Other carbonate uses: ceramics and soda ash (2.A.4.a+b),2.A.4.a+b,kt CO2 (proxy),2012-2024,0.5,185.3,106.6,-4.5,-1.81,no,"CO2 used as activity proxy, not physical output; not in the index"
+Other carbonate uses: limestone and dolomite (2.A.4.d),2.A.4.d,kt CO2 (proxy),2012-2024,17.3,1183.8,3810.9,10.23,5.08,no,"residual of carbonate sales, CO2 used as activity proxy; not in the index"
+Pig iron,2.C.1.b,kt product,2012-2024,25.4,2707.0,3179.8,1.35,0.36,yes,
+Steel,2.C.1.a,kt product,2012-2024,2.4,3775.8,4113.5,0.72,0.24,yes,
+Sinter,2.C.1.d,kt product,2012-2024,5.5,5092.0,5432.8,0.54,0.34,yes,
+Pellets,2.C.1.e,kt product,2012-2024,1.6,7143.8,5799.2,-1.72,-0.37,yes,
+Ferroalloys (CO2),2.C.2,kt product,2012-2024,17.0,1724.1,2292.8,2.4,2.47,yes,
+Ferroalloys (CH4),2.C.2,kt product,2012-2024,0.0,1724.1,2292.8,2.4,2.47,yes,
+Aluminium,2.C.3,kt product,2012-2024,1.9,248.9,264.5,0.51,1.12,yes,
+Zinc,2.C.6,kt product,2012-2024,1.2,106.0,75.4,-2.8,-0.45,yes,
+Ammonia,2.B.1,kt product,2012-2024,2.2,101.5,199.2,5.78,5.84,yes,
+Nitric acid,2.B.2,kt product,2012-2024,0.7,139.7,263.0,5.41,4.44,yes,
+Calcium carbide,2.B.5,kt product,2012-2024,0.1,27.1,23.1,-1.31,1.0,yes,
+Physical-output index 2012-2024 (branches with output data; glass at zero growth),,index (2024 = 1),2012-2024,82.3,0.7682,1.0,2.22,1.76,,weights renormalised to the branches in the index
+Previous index 2010-2024 (all branches as reported),,index (2024 = 1),2010-2024,100.0,0.6888,1.0,2.7,2.47,,superseded

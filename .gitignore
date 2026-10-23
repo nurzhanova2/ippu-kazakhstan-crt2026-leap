@@ -1,0 +1,8 @@
+# Original UNFCCC and BNS files (see data/metadata/source_registry.csv).
+data/raw/
+
+# Python bytecode.
+__pycache__/
+
+# Operating-system metadata.
+.DS_Store

@@ -1,0 +1,7 @@
+scenario,year,crt2025_proxy_base_kt,crt2026_base_kt,difference_kt,difference_percent,crt2025_proxy_archived_2a4_mineral_kt
+Baseline,2030,23551.9,22088.3,-1463.6,-6.2,23551.9
+Baseline,2050,23551.9,22088.3,-1463.6,-6.2,23551.9
+Moderate mitigation,2030,21396.7,20005.9,-1390.8,-6.5,20714.9
+Moderate mitigation,2050,16644.9,15463.2,-1181.8,-7.1,14826.9
+Ambitious mitigation,2030,18520.1,17247.0,-1273.1,-6.9,17156.6
+Ambitious mitigation,2050,10917.3,9978.6,-938.7,-8.6,7735.8
