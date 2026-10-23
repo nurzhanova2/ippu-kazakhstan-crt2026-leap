@@ -6,9 +6,8 @@
 
 **Language:** [Русский](README_ru.md) · [English](README.md)
 
-Zarina Nurzhanova¹, Ayagoz Khamzina¹, Nurkhat Zhakiyev²˒¹  
-¹ Astana IT University, Astana, Kazakhstan  
-² Harvard University, Cambridge, USA
+Zarina Nurzhanova, Ayagoz Khamzina, Nurkhat Zhakiyev  
+Astana IT University, Astana, Kazakhstan
 
 [![Status — manuscript under review](https://img.shields.io/badge/status-manuscript%20under%20review-f9a825)](#citation)
 [![Coverage — Kazakhstan, 1990–2024](https://img.shields.io/badge/coverage-Kazakhstan%2C%201990–2024-1565c0)](data/processed/ippu_historical_summary_1990_2024_crt2026.csv)
