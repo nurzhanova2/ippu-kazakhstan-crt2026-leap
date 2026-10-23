@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Zarina Nurzhanova, Ayagoz Khamzina, Nurkhat Zhakiyev
+
+The following materials in this repository are licensed under the Creative
+Commons Attribution 4.0 International License:
+
+  - data/processed/   processed CSV files, comparisons and scenario results
+  - data/metadata/    scenario parameters, literature-based factors, growth
+                      variants and the source registry
+  - figures/          Figures 1-7
+  - outputs/          LEAP import workbooks
+  - README.md, README_ru.md
+
+You are free to share and adapt these materials for any purpose, including
+commercially, provided that you give appropriate credit, provide a link to the
+license and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Third-party data. The processed files are derived from public sources that keep
+their own terms of use: the greenhouse-gas inventory submissions of the Republic
+of Kazakhstan to the UNFCCC (CRF 2023, CRT 2025, CRT 2026 and the National
+Inventory Documents) and the production statistics of the Bureau of National
+Statistics of the Republic of Kazakhstan. This license covers the authors'
+processing, harmonisation and scenario results, not the primary data. When using
+the values, cite the primary source together with this repository.
+
+The scripts in scripts/ are licensed separately under the MIT License (see LICENSE).
